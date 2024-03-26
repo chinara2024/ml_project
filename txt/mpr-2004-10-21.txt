@@ -1,0 +1,2128 @@
+B A N K  O F  C A N A D A
+MONETARY POLICY REPORT
+– October 2004 –
+20 October 2004 8:18 pm
+PROTECTED
+Bank of Canada
+234 Wellington Street
+Ottawa, Ontario
+K1A 0G9
+5209
+CN ISSN 1201-8783
+Printed in Canada on recycled paper
+CANADA’S INFLATION-CONTROL STRATEGY
+Inflation control and the economy
+• Inflation control is not an end in itself; it is the means whereby monetary
+policy contributes to solid economic performance.
+• Low inflation allows the economy to function more effectively. This con-
+tributes to better economic growth over time and works to moderate
+cyclical fluctuations in output and employment.
+The monetary policy instrument
+• Announcements regarding the Bank’s policy instrument—the target over-
+night interest rate—take place, under normal circumstances, on eight pre-
+specified dates during the year.
+• In setting a target for the overnight rate, the Bank of Canada influences
+short-term interest rates to achieve a rate of monetary expansion consis-
+tent with the inflation-control target. The transmission mechanism is com-
+plex and involves long and variable lags—the impact on inflation from
+changes in policy rates is usually spread over six to eight quarters.
+The targets
+• In February 1991, the federal government and the Bank of Canada jointly
+announced a series of targets for reducing total CPI inflation to the mid-
+point of a range of 1 to 3 per cent by the end of 1995. That inflation-con-
+trol target range was extended a number of times, most recently in May
+2001, in this last case to the end of 2006. Monetary policy will continue to
+aim at keeping future inflation at the 2 per cent target midpoint of this
+range, both to maximize the likelihood that inflation stays within the tar-
+get range and to increase the predictability of inflation over the longer
+term (Crawford 2001).
+Monitoring inflation
+• In the short run, a good deal of movement in the CPI is caused by transi-
+tory fluctuations in the prices of such volatile components as fruit and
+gasoline, as well as by changes in indirect taxes. For this reason, the Bank
+focuses on a core measure of CPI inflation that excludes the eight most vol-
+atile components of the CPI and adjusts the remaining components to
+remove the effect of changes in indirect taxes. Core inflation also tends to
+be a better predictor of future changes in the total CPI than does the recent
+history of CPI inflation (Macklem 2001).
+B A N K  O F  C A N A D A
+MONETARY POLICY REPORT
+— October 2004 —
+This is a report of the Governing Council of the Bank of Canada:
+David Dodge, Paul Jenkins, Sheryl Kennedy, Pierre Duguay,
+David Longworth, and Mark Carney.
+We can be certain that . . . powerful global eco-
+nomic forces . . . will continue to be felt as the
+world economy continues to evolve. This evolu-
+tion will lead to challenges that we must face,
+but it will also lead to opportunities that we
+must seize.
+At the Bank of Canada, we will continue to
+monitor these global forces closely and assess
+their impact at home and abroad. This will help
+us contribute to Canada’s future economic pros-
+pects through low and stable inflation.
+David Dodge
+Governor, Bank of Canada
+20 September 2004
+CONTENTS
+1. Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5
+2. Recent Developments in Inflation  . . . . . . . . . .  7
+Inflation and the 2 per cent target . . . . . . . . .  7
+Factors at work on inflation  . . . . . . . . . . . . .  10
+3. Financial Developments  . . . . . . . . . . . . . . . . . 20
+4. The Outlook
+. . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+International background . . . . . . . . . . . . . . .  23
+Aggregate demand and supply in Canada  .  25
+Measures of inflation expectations  . . . . . . .  29
+Other factors affecting inflation . . . . . . . . . .  29
+Implications of money growth . . . . . . . . . . .  30
+Inflation projection  . . . . . . . . . . . . . . . . . . . .  31
+Bibliography  . . . . . . . . . . . . . . . . . . . . . . . . . . .  33
+Appendix:
+Inflation Performance since May 2001 . . . . . .  35
+Technical Boxes
+1.
+Recent Movements in Oil Prices  . . . . . . .  9
+2.
+Adjusting to Global Change: An Update
+of Sectoral Developments in Canada . . .  13
+3.
+The Dynamics of Exports and Imports  . .  27
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+5
+1. OVERVIEW
+The Canadian economy continues to adjust to major global
+developments. These include a marked recovery in world eco-
+nomic growth and an associated increase in commodity prices; the
+growing global presence of major emerging-market economies
+such as China and India; and a realignment of world currencies,
+including the Canadian dollar. Canadian monetary policy is facili-
+tating the adjustment by aiming to keep inflation at its 2 per cent
+target and the economy operating near its production capacity.
+Early in the year, with core inflation below target and excess
+supply in the economy, the Bank lowered its target for the over-
+night interest rate to 2 per cent to support growth in domestic
+demand. Given the appreciation of the Canadian dollar in 2003,
+the Bank did not expect net exports (the difference between
+exports and imports) to make a material contribution to growth in
+aggregate demand in 2004 and 2005. But, in fact, in the first half of
+this year, exports grew much more vigorously than anticipated. As
+a result, the Canadian economy has moved up near its production
+capacity sooner than was projected in either the April Monetary
+Policy Report or the July Update.
+Recent developments have reinforced the continuing need for
+economic adjustments in Canada. Largely reflecting the strength
+of global demand, world oil prices have risen well above the
+Bank’s earlier assumptions. The prices of non-energy commodities
+are at high levels, and the Canadian dollar has strengthened fur-
+ther, which places additional pressure on some sectors that are
+highly exposed to international trade.
+Over the period to the end of 2006, the Bank’s base-case pro-
+jection is for aggregate demand for Canadian goods and services to
+expand, on average, at about the same rate as potential output,
+which is estimated at 3 per cent. Given the effects of higher oil
+prices and the past appreciation of the Canadian dollar, the Bank
+projects growth to be slightly less than 3 per cent in 2005 and
+slightly more than 3 per cent in 2006.
+With the economy expected to remain near its production
+capacity throughout the projection period, core inflation is pro-
+jected to move back up to 2 per cent by the end of 2005.
+Against this background, the Bank moved to reduce the
+amount of monetary stimulus in the economy by raising its target
+for the overnight rate to 2.25 per cent on 8 September and to
+2.50 per cent on 19 October (Chart 1). Further reduction of monetary
+stimulus will be required over time to keep inflation on target,
+Developments in the
+target for the overnight
+rate since the April
+Report:
+8 June — no change
+20 July — no change
+8 September — up 25 basis
+points to 2.25 per cent
+19 October — up 25 basis
+points to 2.50 per cent
+This report is based on information received up to the ﬁxed announcement date on
+19 October 2004.
+B A N K  O F  C A N A D A
+6
+with the pace of interest rate increases depending on the Bank’s
+continuing assessment of the prospects for factors that affect pres-
+sures on capacity and, hence, inflation.
+The outlook for Canadian exports and imports is of particular
+significance in this respect, given the uncertainty associated with
+the ongoing adjustments to changes in the global economy, includ-
+ing changes in commodity prices and exchange rates. The risks
+surrounding global economic prospects relate primarily to the
+evolution of oil prices, the pace of expansion in China, the way in
+which current account imbalances in the United States and East
+Asia will be resolved, and geopolitical developments.
+Chart 1
+90-Day Commercial Paper Rate, Target for the Overnight Rate,
+and Target for the Federal Funds Rate
+Daily
+%
+90-day
+commercial
+paper rate
+Target for
+the overnight rate
+Target for the
+U.S. federal funds rate
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+2002
+2003
+2004
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+7
+2. RECENT DEVELOPMENTS IN INFLATION
+Core
+CPI inflation averaged 1.5 per cent in the first eight
+months of 2004, below the Bank’s 2 per cent inflation-control tar-
+get. At the same time, unexpectedly high prices for crude oil have
+contributed to a marked rise in the rate of increase in the total CPI.
+Inflation and the 2 per cent target
+Core inflation remained
+below the 2 per cent target
+in August.
+The core rate of inflation was 1.5 per cent in August, up
+from 1.1 per cent last February (Chart 2).1 Other measures of the
+trend rate of inflation that the Bank follows were also below the
+2 per cent target (Chart 3).
+The slack in product markets, which had been evident through
+most of 2003 and into early 2004, contributed to keeping the core
+rate of inflation below the 2 per cent target through the first eight
+months of this year. The prices of import-intensive goods also con-
+tinued to decline in the first eight months of 2004 as a result of
+further reductions in world prices for many consumer goods and
+the impact of the earlier rise in the Canadian dollar. Despite some
+volatility in intervening months, the overall rise in the core rate
+1. The core measure of inﬂation excludes the eight most volatile components
+of the CPI and adjusts the remaining components to remove the effect of
+changes in indirect taxes. The eight most volatile components are fruit, vege-
+tables, gasoline, fuel oil, natural gas, intercity transportation, tobacco, and
+mortgage-interest costs.
+Chart 2
+Consumer Price Index
+Year-over-year percentage change
+* CPI excluding the eight most volatile components and the effect of changes in indirect taxes
+on the remaining components
+Total CPI
+Core CPI*
+Target range
+Target midpoint
+-1
+0
+1
+2
+3
+4
+5
+6
+-1
+0
+1
+2
+3
+4
+5
+6
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+B A N K  O F  C A N A D A
+8
+between February and August was about as projected in both the
+April Report and the July Update. With motor vehicle prices higher
+than expected, core inflation increased somewhat more than antic-
+ipated in the period from March to July. But in August, the core
+rate of inflation moved back into line with expectations, following
+renewed discounting of automobile prices. The 12-month rate of
+increase in consumer meat prices has also risen markedly in recent
+months, partly reﬂecting a reduced supply of chicken resulting from
+an outbreak of avian influenza in British Columbia’s Fraser
+Valley.2
+The rate of increase in the
+total CPI has risen mark-
+edly since last February.
+The 12-month rate of increase in the total CPI was 1.9 per cent
+in August, up from 0.7 per cent in February. This larger gain rela-
+tive to the core rate was caused mainly by substantial increases in
+the consumer prices of gasoline and fuel oil from their levels a
+year earlier. The price of crude oil has continued to rise since mid-
+April, reflecting strong global demand for oil and heightened con-
+cerns about the risks of supply disruptions in a number of oil-
+producing regions (Technical Box 1). Indeed, the price of oil is
+currently well above the levels in the base-case scenarios of both
+the April Report and the last Update.
+2. It also reflected a recovery in consumer beef prices from the unusually low
+levels recorded in August 2003, following the closure of international borders
+to imports of Canadian cattle, beef, and related products as a result of the dis-
+covery of an isolated case of bovine spongiform encephalopathy in Alberta.
+Chart 3
+Core CPI and Other Measures of the Trend Inﬂation Rate
+Year-over-year percentage change
+*
+CPIW adjusts each CPI basket weight by a factor that is inversely proportional to the
+component’s variability.
+** CPIXFET excludes food, energy, and the effect of changes in indirect taxes.
+CPIW*
+CPIXFET**
+Core CPI
+Target range
+Target midpoint
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+2000
+2001
+2002
+2003
+2004
+ M O N E T A R Y  P O L I C Y  R E P O R T — O C T O B E R  2 0 0 4
+9
+Technical Box 1
+Recent Movements in Oil Prices
+Crude oil prices have increased by more than 50 per cent since the beginning of
+this year, reaching a record high in October. Nevertheless, the peak oil price, in real
+terms, was still about 20 per cent below the historical peak reached in the second
+quarter of 1981. The recent unexpected rise in global oil prices has reflected both a
+substantial increase in the demand for oil, as world growth strengthened more than
+anticipated, and heightened uncertainty regarding potential disruptions to oil sup-
+plies, at a time of exceptionally low global spare capacity.
+A repeated ratcheting up of actual and expected global demand during 2004 has
+underpinned the perception of a tighter oil market and the subsequent rise in price.
+The International Energy Agency’s (IEA) estimate of world demand for crude oil in
+2004, which stood at 80.3 million barrels per day (bpd) in April, has been raised to
+82.4 million bpd. Robust economic growth in China and India has contributed to this
+marked rise in demand.
+Spare capacity in OPEC-member countries (excluding Iraq), the only significant
+source of incremental short-term supply besides commercial oil stocks, is estimated to
+have touched record lows this year. In these circumstances, supply threats have had a
+particularly strong impact on prices by boosting the demand for inventories as a pre-
+caution against major supply disruptions. Concern about the security of oil produc-
+tion in the Middle East (particularly in Iraq), uncertainty surrounding Yukos Oil
+Company’s production in Russia, recent political instability in Nigeria, and significant
+damage to oil production facilities in the Gulf of Mexico have all contributed to higher
+prices.
+Prices of West Texas Intermediate crude oil futures suggest that prices are likely
+to remain at high levels in the near term, because of strong demand, low spare capac-
+ity, and supply threats. In the medium term, the global supply of crude oil should
+expand to meet higher demand, bringing prices gradually down. This is reflected in
+medium-term forward prices. The six-year forward price is currently US$38.30 per
+barrel.
+2004 Global Demand for Oil
+vs. Spot Price
+Real Oil Price (Constant 1982–90 Dollars)
+and OPEC-10* Spare Capacity
+IEA forecast
+(left scale)
+WTI crude oil price
+(right scale)
+Real price of oil
+(left scale)
+OPEC-10 spare capacity
+(right scale)
+0
+10
+20
+30
+40
+50
+60
+0
+2
+4
+6
+8
+10
+12
+1977
+1982
+1987
+1992
+1997
+2002
+2003
+2004
+1972
+bpd, millions
+US$/bb1
+US$/bbl
+bpd, millions
+Source: IEA. Graph shows data received up to 13 October.
+* OPEC-10 is all OPEC countries excluding Iraq.
+The 2004 value is the level in September.
+Source: IEA
+79
+80
+81
+82
+83
+84
+25
+30
+35
+40
+45
+50
+55
+B A N K  O F  C A N A D A
+10
+Factors at work on inflation
+Aggregate demand
+In the first half of 2004,
+economic growth in
+Canada was higher
+than projected . . .
+Canada’s real GDP advanced at an annual rate of 3.7 per cent
+in the first half of 2004, higher than that projected in the last
+Report (Chart 4). In particular, the increase in exports was signifi-
+cantly stronger than expected. Recent indicators for spending and
+activity suggest that economic growth was about 3 per cent in the
+third quarter of 2004, marginally less than anticipated in the
+July Update.
+. . . with exports surging
+and household spending
+also rising markedly.
+The broadly based surge in exports reflected continued strong
+growth in global economic activity, as well as a recovery from the
+unusually low level in mid-2003. Final domestic demand also rose
+considerably, especially at the beginning of the year (Chart 5).
+Household spending continued to increase at a robust pace
+because of past monetary stimulus and stronger gains in real
+incomes (Chart 6). Capital expenditures by businesses also rose
+substantially. Some of this increased demand was met by imports,
+although imports rose much less than exports. Since part of the
+increase in sales was likely unexpected by firms, inventories were
+also reduced.
+Growth in the U.S. economy slowed to 3.3 per cent (at annual
+rates) in the second quarter of 2004 from 4.5 per cent in the first
+quarter, owing to weaker growth in consumption. Higher oil
+prices were mainly responsible for dampening consumption,
+Chart 4
+Real Gross Domestic Product for Canada
+* The letter “e” denotes estimate based on available indicators.
+Quarter-over-quarter
+percentage change,
+at annual rates
+Year-over-year
+percentage change
+-2
+0
+2
+4
+6
+8
+-2
+0
+2
+4
+6
+8
+2000
+2001
+2002
+2003
+2004
+e*
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+11
+which is expected to rebound modestly in the third quarter.3 Evi-
+dence to date indicates that growth rose to about 4.5 per cent in
+the third quarter (Chart 7).
+3. Consumption in the third quarter is supported by surprisingly strong car
+sales, fuelled by dealer incentives.
+Chart 5
+Contribution to Real GDP Growth
+Percentage points, quarterly at an annual rate
+Final domestic
+demand
+Net exports
+Inventory
+investment
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+2003
+2004
+Chart 6
+Consumer Conﬁdence
+* Source: Conference Board of Canada (last data point 2004Q3)
+** Expenditures in constant dollars on consumer goods and services plus housing investment
+1991=100
+Year-over-year
+percentage change
+Household
+spending**
+(right scale)
+Index of
+consumer confidence*
+(left scale)
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+B A N K  O F  C A N A D A
+12
+Adjusting to Global Change
+The marked recovery in
+the global demand for
+Canadian goods and
+services has offset the
+effect of a stronger
+Canadian dollar . . .
+Canadian producers continue to adjust to developments in the
+global economy. These developments include a marked recovery
+in world economic growth; the associated increase in commodity
+prices; the growing global presence of major emerging-market
+economies, such as China and India; and large movements in the
+U.S. dollar against most other major currencies, including the
+Canadian
+dollar.
+The
+impact
+of
+these
+developments
+on
+the
+demand for Canadian goods and services is causing changes in
+the composition of activity, employment, and capital spending
+among the various sectors of the economy, as well as major adjust-
+ments by many firms. Indeed, many companies in industries that
+are highly exposed to international competition are making signif-
+icant modifications to their operations.4
+. . . and boosted output in
+most industries highly
+exposed to foreign
+competition.
+Between December 2003 and July 2004, output growth in Can-
+ada remained strong in those sectors with low exposure to inter-
+national trade. Over the same period, however, the strength of
+global demand for Canadian goods and services has also led to
+sharply higher output in a number of industries highly exposed to
+international competition (Technical Box 2).
+Business capital spending and intentions have also been
+importantly
+affected
+by
+key
+global
+economic
+developments.
+Chart 7
+Real Gross Domestic Product for the United States
+-2
+0
+2
+4
+6
+8
+10
+-2
+0
+2
+4
+6
+8
+10
+2000
+2001
+2002
+2003
+2004
+* The letter “e” denotes estimate based on available indicators.
+e*
+Quarter-over-quarter
+percentage change,
+at annual rates
+Year-over-year
+percentage change
+4. This includes industries that are highly export oriented or highly exposed
+to import competition.
+ M O N E T A R Y  P O L I C Y  R E P O R T — O C T O B E R  2 0 0 4
+13
+Technical Box 2
+Adjusting to Global Change: An Update of Sectoral Developments in Canada1
+Since the end of 2003, the impact of the global economic recovery on the demand
+for Canadian goods and services has become much more apparent. The strong recov-
+ery in exports in the first half of 2004 appears to have derived mainly from the global
+economic upswing and the accompanying rise in commodity prices. Exports also ben-
+efited from a shift in the composition of foreign activity in favour of components to
+which Canadian exports are particularly sensitive and from the diminishing effects of
+earlier unfavourable sectoral shocks.2 Consequently, output growth in sectors highly
+exposed to international trade increased strongly, despite the appreciation of the
+Canadian dollar. In particular, production in industries manufacturing non-electrical
+machinery, chemical products, and fabricated metal products rose sharply. Continued
+substantial growth in Canada’s final domestic demand during the first half of this
+year also contributed to further gains in activity in most sectors with a low exposure
+to international competition, especially in telecommunications services and retail
+trade.
+There have been marked fluctuations in profitability among sectors in Canada
+since the end of 2002. Although aggregate profitability was high in 2003, the average
+rate of return on equity in sectors highly exposed to international trade worsened con-
+siderably between the first and third quarters of 2003. Companies in sectors where
+prices are determined in world markets (and denominated in U.S. dollars) quickly
+experienced the adverse effect of the Canadian dollar’s appreciation on their profita-
+bility. Subsequently, with stronger output growth and substantial increases in world
+prices for commodities, profitability in most of these sectors had recovered considera-
+bly by mid-2004. The increase in profitability has been especially pronounced for
+manufacturers of automobiles and parts; chemicals, plastics, and rubber products; and
+wood and paper products.
+Even so, because many companies in industries highly exposed to international
+trade had experienced weakness in their profitability over most of the period since
+2001, they have continued to make adjustments since the end of 2003. For instance,
+there has been relatively little change in employment in the manufacturing sector
+since the end of last year, despite a marked rise in production. As well, capital spend-
+ing in many industries with a high exposure to international competition (other than
+those
+producing
+energy
+and
+other
+commodities)
+has
+decreased
+considerably
+since 2002.
+1.
+This technical box updates Technical Box 2 in the April Report.
+2.
+See Technical Box 3 for more details.
+B A N K  O F  C A N A D A
+14
+Real GDP by Sector
+Percentage change
+Sector
+December 2002
+to
+December 2003
+December 2003
+to July 2004
+(annual rate)
+Aggregate business
+2.7
+3.5
+High exposure to international trade or competition
+Of which:
+Mineral fuels
+Non-energy, non-farm commodity based
+Other high-exposure sectors*
+3.3
+2.1
+2.9
+3.8
+4.0
+0.2
+2.3
+6.5
+Low exposure to international trade**
+2.5
+3.3
+*
+Includes selected non-commodity-based manufacturing industries
+** Includes sectors that are exposed as net importers
+Rate of Return on Equity for Selected Sectors
+Sectors
+with high
+exposure to
+international trade
+Sectors
+with low
+exposure to
+international trade
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+%
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Total all sectors
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+15
+Indeed, the growth of business investment since 2002 has been
+concentrated in sectors with low exposure to international compe-
+tition, as well as in industries producing energy and other com-
+modities. In the remaining industries that are highly exposed to
+international trade and, therefore, to exchange rate fluctuations,
+capital spending has fallen back, however.
+The Bank’s autumn Business Outlook Survey suggested that, over-
+all, the level of conﬁdence among ﬁrms about sales prospects over
+the next 12 months remains about as high as it was in the summer
+survey, with ﬁrms in the West being signiﬁcantly more optimistic
+than those in Central and Eastern Canada. Optimism about prospec-
+tive capital spending also continues to be fairly high. Firms in most
+sectors still plan to increase their investment expenditures, with man-
+ufacturing continuing to be an exception.
+More generally, it appears that many Canadian firms are still
+adjusting to developments in the global economy. Indeed, with
+continuing uncertainty attached to the outlook for global demand
+for Canadian goods and services, the likely path of world prices
+for energy and non-energy commodities, and the nature and
+extent of further changes in currencies, the size and timing of fur-
+ther adjustments by Canadian businesses remains uncertain.
+Estimated pressures on capacity
+Activity in the Canadian
+economy had moved up
+near its production poten-
+tial by the second quarter
+of 2004.
+Canada’s economic growth in the first half of 2004 was higher
+than projected in the April Report. This, combined with a small
+upward revision to real GDP data for 2003,5 suggests that the Cana-
+dian economy has moved up near its production potential some-
+what more quickly than was expected in the last Report. Indeed,
+the Bank’s conventional measures of potential output and the out-
+put gap indicate that the level of economic activity was very close
+to full capacity by the second quarter of 2004 (Chart 8). While
+there continues to be a wide confidence interval surrounding any
+estimate of the output gap, the Bank believes that its conventional
+measure provides a balanced assessment of how close the econ-
+omy is to its capacity limits. This is confirmed by the proportion
+of firms reporting pressures on capacity in the Bank’s autumn
+Business Outlook Survey (Chart 9).
+Some indicators currently point to greater pressure on capacity
+than the conventional measure. For instance, capacity utilization in the
+non-farm, goods-producing sector was well above the 2000–03 average.
+As well, the number of companies adversely affected by labour
+shortages rose from the summer Business Outlook Survey. These
+5. Statistics Canada’s estimate of real growth for 2003, on an average annual
+basis, was revised up to 2.0 per cent from an initial estimate of 1.7 per cent.
+B A N K  O F  C A N A D A
+16
+labour shortages were widespread in the resource, trucking, busi-
+ness and personal services, manufacturing, and construction sec-
+tors. This last shortage is consistent with the capacity pressures
+that have been evident in the housing market for some time.
+Chart 8
+Estimated Output Gap*
+Difference between actual output and estimated potential output
+* The shading around the values of the estimated output gap shows (from darkest to lightest)
+conﬁdence intervals of 25 per cent, 50 per cent, 75 per cent, and 95 per cent.
+Note: The estimate for the third quarter of 2004 is based on a projected rise in output of 3 per cent
+(at annual rates) for the quarter.
+-4
+-2
+0
+2
+4
+-4
+-2
+0
+2
+4
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Chart 9
+Estimated Output Gap and Response to Business Outlook Survey
+Question on Capacity Pressures
+* Difference between actual output and estimated potential output. Note that the estimate for the third
+quarter of 2004 is based on a projected rise in output of 3 per cent (at annual rates) for the quarter.
+** Percentage of firms indicating that they would have either some or significant difficulty meeting an
+unanticipated increase in demand/sales.
+Some or
+signiﬁcant difﬁculty**
+(left scale)
+Output gap*
+(right scale)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+1999
+2000
+2001
+2002
+2003
+2004
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+17
+In contrast, other indicators suggest more slack than implied
+by the conventional measure of the output gap. Hours worked
+have been below trend, and wage increases continue to be moder-
+ate. The ratio of unfilled orders to shipments in the manufacturing
+sector (excluding aerospace products and parts) also remains quite
+low.
+There are differences in capacity utilization across industries
+and regions, and some of these differences may well become more
+pronounced in the future as a result of the ongoing adjustment
+process to global changes. However, there is currently little excess
+supply in the Canadian economy as a whole.
+Cost control and output prices
+Unit labour costs in the
+second quarter of 2004
+were up only modestly
+from year-earlier levels.
+Unit labour costs in the business sector in the second quarter
+of 2004 were up modestly from year-earlier levels, even though
+productivity increased only slightly over the past year (Chart 10).
+This reflected the fact that hourly labour compensation in the
+business sector rose by a mere 1 per cent between the second
+quarter of 2003 and the second quarter of 2004. However, the under-
+lying rate of increase in wages, based on such measures as the average
+hourly earnings of permanent workers,6 seems to have been in a
+range between 2 1/4 and 3 1/4 per cent since the fourth quarter
+of 2003 (Chart 11).7
+Further large year-over-year increases in the prices of Canada’s
+commodity exports during the first half of 2004, resulting from
+strong growth in the world economy, contributed importantly to
+the pronounced increase in the annual rise in the chain price index
+for GDP (a broad price measure of goods and services produced in
+Canada) between the fourth quarter of 2003 and the second quar-
+ter of 2004 (Chart 12). However, the prices of non-energy com-
+modities have edged down slightly since mid-2004 (Chart 13).
+Upward revisions to forecasts for U.S. crop production contrib-
+uted to a decline in grain prices, and the prices of forest products
+have also eased as a result of somewhat weaker demand. In con-
+trast, strong world demand has led to firmness in metals prices.
+6. The average hourly earnings of permanent workers for the aggregate econ-
+omy appear to give a better indication of the underlying rate of increase in
+wages than does labour compensation per person-hour in the business sector,
+partly because they are considerably less volatile. As well, the labour-
+compensation measure has, at times, been subject to considerable revision.
+7. The drop in the average base-wage rate for contracts negotiated in the pub-
+lic sector in the second quarter of 2004 reﬂected the impact of a Government
+of British Columbia contract with health sector workers that contained wage
+cuts. The decrease in the average base-wage rate for contracts negotiated in
+the private sector in July 2004 reﬂected the impact of Air Canada agreements
+that contained wage freezes and some wage reductions.
+B A N K  O F  C A N A D A
+18
+Chart 10
+Unit Labour Costs and Labour Productivity: Business Sector
+Year-over-year percentage change
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+* Labour compensation includes the labour income of paid workers, plus imputed labour income
+for self-employed workers.
+Source: Statistics Canada Daily
+Labour compensation
+per person-hour*
+Unit labour costs
+Output per
+person-hour
+-4
+-2
+0
+2
+4
+6
+8
+-4
+-2
+0
+2
+4
+6
+8
+Chart 11
+Wage Settlements and Average Hourly Earnings
+Effective annual increase in base wage rates for newly negotiated settlements
+%
+* Source: Labour Force Information, last data point plotted, September 2004
+** Source: Human Resources Development Canada, last data point plotted, August 2004
+Private sector**
+Public sector**
+Average hourly earnings
+of permanent workers*
+(year-over-year percentage change)
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+-1
+0
+1
+2
+3
+4
+5
+-1
+0
+1
+2
+3
+4
+5
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+19
+Chart 12
+Chain Price Index for GDP, Core CPI, and Total CPI
+Year-over-year percentage change
+Chain price index
+for GDP
+Core CPI
+Total
+CPI
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Chart 13
+Bank of Canada Commodity Price Index
+1982–90 = 100
+Non-energy (Can$)
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+240
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Energy (Can$)
+Non-energy (US$)
+B A N K  O F  C A N A D A
+20
+3. FINANCIAL DEVELOPMENTS
+Financial conditions have
+been very favourable.
+Financial conditions in Canada have been very favourable
+since the April Report. The yields and spreads on corporate bonds
+are broadly unchanged and remain below their historical aver-
+ages, as strong profitability offsets concerns about the possible
+impact of higher interest rates in the future (Chart 14). Canadian
+equity markets have moved higher since the time of the last
+Report, and remain well above the levels seen a year ago. The solid
+earnings performance of Canadian banks, together with increased
+competition among financial institutions and between financial
+institutions and capital markets for business lending, has contrib-
+uted to easier bank-lending conditions.
+Favourable financial conditions and ongoing improvements in
+business balance sheets have led to a strengthening of total busi-
+ness credit growth, which is approaching a level in line with its
+historical averages (Chart 15). There has been a particularly brisk
+pickup in short-term business credit over the past few months—
+largely in the form of loans from chartered banks. This increase
+was due to lower borrowing costs, easier terms and conditions,
+and a slight increase in the demand for credit. Long-term business
+credit continued to grow solidly, supported by healthy issuance of
+bonds and equities in capital markets. However, most of the
+increase in business credit seems to have been directed towards
+general business operations rather than increased investment.
+Chart 14
+Yield on Canadian Corporate Bonds Minus Yield on Government Bonds
+All maturities by credit rating, basis points
+Source: Merrill Lynch
+AAA
+A
+BBB
+AA
+0
+50
+100
+150
+200
+250
+300
+350
+0
+50
+100
+150
+200
+250
+300
+350
+2001
+2002
+2003
+2004
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+21
+Household credit advanced at an accelerated pace, with both
+consumer credit and residential mortgage credit contributing to the
+rise. This pickup suggests that low interest rates and solid income
+growth are still bolstering consumption and housing investment.
+Yields on shorter-term bonds in both Canada and the United
+States have risen since the last Report, driven by higher policy
+rates and expectations of further increases. Yields on longer-term
+bonds, in contrast, have shifted down slightly (Chart 16). Further-
+more, bond yields are generally well below the peaks reached in
+May and June of this year. The early summer peak in yields
+Chart 15
+Business and Household Credit
+Year-over-year percentage change
+0
+2
+4
+6
+8
+10
+12
+14
+0
+2
+4
+6
+8
+10
+12
+14
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Business
+Household
+Chart 16
+Term Structure of Interest Rates in Canada and the United States
+Yields on government bonds and commercial paper
+%
+United States
+(18 October 2004)
+Canada
+(18 October 2004)
+ United States
+(13 April 2004)
+Canada
+(13 April 2004)
+Months or years to maturity
+3m.
+2yr.
+3yr.
+5yr.
+7yr.
+10yr.
+30yr.
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+B A N K  O F  C A N A D A
+22
+reflected both the perceived beginning of the tightening phase in
+the U.S. interest rate cycle and growing optimism about the
+strength of the U.S. and global recoveries. Subsequent concerns
+over the summer months about a U.S. slowdown, combined with
+record high oil prices and the dampening effect that they could
+have on consumption in several countries, have led to a sharp
+drop in yields from those earlier levels. Spreads between the
+yields on Canadian and U.S. government bonds have generally
+widened over the period, largely as a result of movements in U.S.
+yields.
+Although the Canadian dollar also exhibited significant move-
+ments over the period, it is broadly stronger since the time of the
+last Report, having appreciated by slightly over 7 per cent relative
+to both the U.S. dollar and the C-5 index of currencies (Chart 17).
+By mid-May, when the growth outlook in the United States was at
+its most optimistic, the Canadian dollar had fallen to approxi-
+mately 71.5 cents U.S. Following this, however, a combination of
+weaker-than-expected U.S. growth, stronger Canadian growth,
+and firming commodity prices contributed to the appreciation of
+the Canadian dollar, which is currently trading at close to 80 cents U.S.
+Chart 17
+Canadian Dollar Exchange Rate
+Wednesdays
+U.S. cents
+Closing spot exchange
+rate vis-à-vis U.S. dollar
+(right scale)
+Canadian dollar index
+vis-à-vis C-5 currencies**
+(left scale)
+Canadian dollar index vis-à-vis
+C-6 currencies* (left scale)
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+2000
+2001
+2002
+2003
+2004
+*  C-6 currencies: U.S. dollar, euro, yen, U.K. pound, Swedish krona, and Swiss franc
+** C-5 currencies: excludes U.S. dollar
+1992=100
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+23
+4. THE OUTLOOK
+International background
+The global economy is expected to continue to expand over the
+next two years, fuelled by robust growth in Asia, somewhat above
+potential growth in the United States, and moderate growth in
+Europe and Japan (Table 1). The pace of expansion will be damp-
+ened by the recent sharp increase in oil prices, however, and by a
+move to higher interest rates as economies currently experiencing
+excess supply conditions move closer to full production capacity.
+The Bank’s base-case projection calls for world economic growth
+to moderate from about 4 3/4 per cent in 2004 to about 4 per cent
+in 2005, and to pick up to about 4 1/4 per cent in 2006.
+While the outlook is favourable, there are a number of uncer-
+tainties, especially beyond mid-2005. The timing and extent of fis-
+cal consolidation in most major economies is unclear at this time.
+More broadly, the form of the resolution of current account imbal-
+ances, notably those in the United States and East Asia, is difficult
+to ascertain. And there remain ongoing geopolitical concerns.
+Table 1
+Global Growth Projectionsa
+Share
+of real
+global
+GDPb
+(per cent)
+Expected growth (per cent)
+and percentage point contribution
+to global economic growthc
+2004
+2005
+2006
+United States
+21
+4.6 [0.97]
+3.7 [0.78]
+4.1 [0.86]
+European Union
+20
+2.1 [0.42]
+1.9 [0.38]
+2.6 [0.52]
+Japan
+7
+4.1 [0.29]
+1.5 [0.11]
+2.1 [0.15]
+China and Asian NIEsd
+16
+8.2 [1.31]
+7.1 [1.14]
+6.5 [1.04]
+Others
+36
+4.6 [1.66]
+4.1 [1.48]
+4.8 [1.73]
+World
+100
+4.7
+3.9
+4.3
+a.
+Source: Bank of Canada
+b.
+GDP shares are based on the purchasing-power-parity (PPP) valuation of country GDPs
+for 2002. Source: IMF, WEO Database, September 2003.
+c.
+Numbers in square brackets represent the contribution of each region to the global eco-
+nomic growth rate in percentage points.
+d.
+NIEs are newly industrialized economies. These include Hong Kong (Special Administra-
+tive Region), Korea, Taiwan (Province of China), and Singapore.
+B A N K  O F  C A N A D A
+24
+Over the next two and a half years, the Bank’s base-case pro-
+jection for the U.S. economy is for growth at a rate slightly faster
+than that of its production capacity. The key economic driver in
+the United States is expected to be strong growth in business
+investment, responding to underinvestment in recent years and to
+very favourable ﬁnancing conditions. Productivity gains from past
+and future investments and capital deepening are expected to main-
+tain the growth of potential output at about 3 1/2 per cent. The
+past depreciation of the U.S. dollar should boost net exports,
+while the recent sharp increase in oil prices, together with a reduc-
+tion in monetary stimulus, and some assumed fiscal consolidation,
+will dampen growth in household spending. The output gap, esti-
+mated at 1 per cent in the third quarter of 2004, is projected to narrow
+further during 2006.
+In Europe, the recovery, although uneven, is now somewhat
+more firmly anchored. Robust growth in some countries, such as
+the United Kingdom, is counterbalanced by less-favourable pros-
+pects in Germany and Italy. The recovery in Japan is expected to
+be sustained, albeit at a slower pace than recorded at the end of
+2003 and early 2004. Emerging-market countries in Asia should
+continue to contribute positively to world growth if China suc-
+cessfully moves towards a more sustainable growth path.
+There are risks to the outlook for 2005. On the downside, the
+U.S. economy may slow more than expected, and the Chinese
+economy may slow more abruptly than projected. On the upside,
+investment growth and inventory rebuilding in the United States
+may be stronger than expected, and the Chinese economy may not
+slow as much as projected.
+The U.S.-dollar prices of non-energy commodities are expected
+to remain at a relatively high level over the next two years as a
+result of the global economic expansion, although they are likely
+to ease over time as new supplies come on stream. The price of
+crude oil is assumed to remain above US$50 per barrel in the first
+half of 2005 and to ease to about US$43 per barrel by the second
+half of 2006. Natural gas prices, which will likely move up with
+the onset of the winter heating season, are expected to remain at
+relatively high levels through 2006. These assumptions are consis-
+tent with the current market expectations embodied in futures
+prices (Chart 18). The Bank’s base-case scenario for oil prices is
+well above that used in both the last Report and Update.
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+25
+Aggregate demand and supply in Canada
+Continued strong growth
+in final domestic demand
+is expected to contribute
+importantly to economic
+expansion in Canada
+through to 2006.
+Continued
+strong
+growth
+of
+final
+domestic
+demand
+is
+expected to contribute importantly to economic expansion in Can-
+ada through to 2006 (Table 2). Business investment is projected to
+strengthen further as a result of strong growth in the global
+economy and the resulting high level of commodity prices, very
+favourable financial conditions, and reductions in the prices of
+imported machinery and equipment. Solid growth in consumer
+spending should be sustained by further gains in real incomes.
+Housing investment is expected to stabilize at current high levels,
+as supply catches up with demand. And spending by all levels of
+government is projected to rise broadly in line with revenues as
+governments strive to maintain fiscal balance.
+While continued global economic expansion implies further
+gains for Canadian exports, this is projected to be more than offset
+by faster growth in imports. The past appreciation of the Cana-
+dian dollar is expected to continue to dampen the growth of Can-
+ada’s exports and to boost that of imports through 2005.
+However, it remains difficult to analyze Canada’s international
+trade volumes in terms of the underlying fundamentals (Technical
+Box 3). At mid-2003, the levels of both exports and imports
+seemed well below those indicated by their historical relationships
+with measures of real income and relative prices. Since then,
+exports have moved back up near their predicted long-run levels,
+while imports continue to be much lower than expected. These
+Chart 18
+Crude Oil and Natural Gas: Spot and Futures Prices
+Monthly
+* Spot price for crude oil (15 October 2004)
+• Spot price for natural gas (15 October 2004)
+Source: Canadian Enerdata Ltd., Canadian Gas Price Reporter
+US$/barrel
+US$/mcf
+Crude oil
+(right scale)
+Natural gas
+(left scale)
+•
+*
+Price of crude oil futures
+(15 October 2004)
+Price of natural
+gas futures
+(15 October 2004)
+0
+2
+4
+6
+8
+10
+12
+0
+10
+20
+30
+40
+50
+60
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+B A N K  O F  C A N A D A
+26
+puzzling developments, together with substantial and ongoing
+revisions to the trade data, make the projection of the future con-
+tribution of net exports to GDP growth particularly uncertain. More
+generally, given the various forces at play in the global economy,
+there are risks around our projections for imports and exports,
+and for business investment.
+Higher-than-expected oil prices, both actual and prospective,
+should tend to reduce demand for Canadian exports, raise produc-
+tion costs for Canadian firms, and dampen household spending,
+all else being equal. Over time, they should also lead to higher
+capital spending and output by energy-producing firms. However,
+given the time necessary for regulatory approvals before major
+new projects can proceed, and given tight markets for many
+inputs, including skilled labour, the impact of higher oil prices on
+the
+capital
+expenditures
+of
+energy-producing
+companies
+is
+expected to be limited in the short term. Thus, higher energy
+prices are likely to have a small negative effect on Canadian GDP in
+the near term, before the positive impact on capital spending and
+energy output in Canada becomes more pronounced.
+Growth is expected to
+remain close to 3 per cent
+through 2006 . . .
+The Bank’s base-case projection for Canada calls for real GDP
+growth to average about 3 per cent (the estimated growth rate of
+production capacity), at an annual rate, over the period from the
+second half of 2004 to the end of 2006. Given the effects of higher
+oil prices, including a slowing in U.S. economic expansion, and
+the anticipated further dampening of net exports arising from the
+Table 2
+Contributions to Average Annual Real GDP Growth
+Percentage points*
+2004
+2005
+2006
+Consumption
+1.8 (1.8)
+1.7 (1.8)
+1.7
+Housing
+0.4 (0.5)
+0 (0)
+ 0
+Government
+0.6 (0.5)
+0.7 (0.7)
+0.8
+Business fixed investment
+0.6 (0.7)
+0.8 (0.9)
+0.9
+Subtotal: Final domestic demand
+3.4 (3.5)
+3.2 (3.4)
+3.4
+Exports
+3.0 (2.3)
+2.0 (1.6)
+1.7
+Imports
+-2.8 (-2.4)
+-2.5 (-1.9)
+-1.9
+Subtotal: Net exports
+0.2 (-0.1)
+-0.5 (-0.3)
+ -0.2
+Inventories
+-0.7 (-0.7)
+0.2 (0.4)
+ 0
+GDP
+2.9 (2.7)
+2.9 (3.5)
+3.2
+* Figures in parentheses are estimates used for the scenario in the July Update.
+ M O N E T A R Y  P O L I C Y  R E P O R T — O C T O B E R  2 0 0 4
+27
+Technical Box 3
+The Dynamics of Exports and Imports
+Large changes in macroeconomic variables and significant disturbances to trade
+from unusual shocks, combined with ongoing high volatility and substantial revisions
+to trade data, have made the interpretation of export and import movements difficult
+over the last few years. Nevertheless, an analysis of recent trade data and macroeco-
+nomic developments within a framework of error-correction models of exports and
+imports suggests the following picture of trade adjustment.
+Exports have sprung up in recent quarters after a period of trend decline that had
+brought them well below the estimated long-run “fundamental” values suggested by
+an econometric model based on the observed levels of foreign output, the relative
+price of exports, and global openness to trade, as captured by the ratio of exports to
+GDP in OECD countries. This shortfall seems ascribable, at least in part, to increasing
+slack in the world economy and to a number of unfavourable sector-specific develop-
+ments.1 The recent resurgence of exports appears to have arisen mostly from the glo-
+bal economic upswing and the accompanying rise in commodity prices. Exports have
+also probably been boosted by a shift in the composition of foreign activity in favour
+of components to which Canadian exports are particularly sensitive,2 the diminishing
+effects of earlier unfavourable sectoral shocks, and to a smaller degree, a decline over
+the past year in manufacturing unit labour costs relative to the export price of end
+products. As a result, exports had climbed back closer to their predicted long-run
+value by the second quarter of this year.
+Imports have been trending up in 2003 and 2004 relative to a measure of import-
+intensive activity. At the same time, however, they have fallen increasingly below the
+values suggested by an econometric model based on the observed levels of import-
+intensive activity, the relative price of imports, and global openness to trade. Work at
+a disaggregated level suggests that this shortfall originates largely in machinery and
+equipment imports and that, to a small extent, it may have arisen from attempts by
+industries with high propensities to import equipment parts and components to
+reduce excessive stocks relative to sales. Uncertainty about the estimated parameters
+of the import model allows for a range of probable values for the shortfall of imports.
+Thus, the relatively large size of the estimate shown below must be interpreted with
+caution.
+Although it remains very hard to project with confidence how trade adjustment
+will evolve in the future, it seems likely that net exports will make a negative contri-
+bution to growth in the short term as exports slow more than imports. Exports might
+receive less support from the factors that have counteracted exchange rate effects
+recently, while imports would likely tend to catch up to higher long-run “fundamen-
+tal” levels.
+1.
+For a review of these shocks, see “Recent Trends in Export Volumes,” Technical Box 1, Mon-
+etary Policy Report, April 2004.
+2.
+For instance, a measure that weights indexes of U.S. industrial production and various
+components of U.S. GDP by the relative proportions in total Canadian exports of the export cat-
+egories to which they relate shows signiﬁcantly more growth from the third quarter of 2003
+onwards than does U.S. GDP.
+B A N K  O F  C A N A D A
+28
+Estimated Long-Run Elasticities
+Exportsa
+Importsa
+Activity (foreign or domestic)b
+1.0c
+1.0c
+Relative prices (of exports or imports)
+-0.4
+-0.9
+Export intensity in OECD countries
+0.6
+0.4
+a.
+Model estimated over the period 1973Q1 to 2004Q1.
+b.
+Foreign activity: Canadian-trade-weighted average of GDP indexes for the G-6 countries.
+Domestic activity: Canadian GDP less government expenditures and the statistical discrep-
+ancy, plus imports.
+c.
+Imposed elasticity, not statistically different from an estimated unconstrained elasticity.
+Deviation of Exports from Estimated
+Long-Run Fundamentals
+Deviation of Imports from Estimated
+Long-Run Fundamentals
+%
+%
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+-10
+-5
+0
+5
+10
+-10
+-5
+0
+5
+10
+Last date plotted: 2004Q2
+-20
+-10
+0
+10
+20
+-20
+-10
+0
+10
+20
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+Last date plotted: 2004Q2
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+29
+past appreciation of the Canadian dollar, growth is expected to be
+slightly less than 3 per cent during 2005 and slightly more in 2006.
+This implies growth, on an annual average basis, of just under
+3 per cent in 2004 and 2005, and about 3 1/4 per cent in 2006.
+The projection for growth in 2004 is a little higher than in the
+April Report and the July Update, whereas the projection for 2005 is
+lower. This growth projection for 2005 is also lower than the latest
+Consensus outlook.
+. . . with the economy
+staying close to its
+production capacity.
+This growth scenario implies that the Canadian economy may
+experience some small renewed excess supply in 2005 before
+returning close to its production capacity by mid-2006. The base-
+case scenario assumes further withdrawal of monetary stimulus
+over time to keep the economy near its production capacity and
+achieve the inflation target.
+Measures of inflation expectations
+While indicators of
+near-term inflation
+expectations have moved
+up, many longer-term
+measures remain close
+to 2 per cent.
+While most indicators of short-term inflation expectations that
+the Bank follows have moved up modestly since mid-April, many
+of the key medium- and longer-term measures remain close to
+2 per cent. In the regular survey reported in the autumn issue of
+the Conference Board of Canada’s Index of Business Confidence,
+72 per cent of respondents expected prices, in general, to rise over
+the next six months at a rate of 2 per cent or less. This is a lower
+percentage than reported nine months earlier. As well, while just
+under 90 per cent of firms in the Bank’s autumn Business Outlook
+Survey expected CPI inflation to be within a range of 1 to 3 per
+cent, on average, over the next two years, 54 per cent of respond-
+ents expected inflation to be in the upper part of the range. On the
+other hand, the average private sector forecast for total CPI infla-
+tion in both 2004 and 2005 is around 2 per cent. Consensus fore-
+casts of inflation for 2006 and beyond also continue to be very
+close to 2 per cent.
+Other factors affecting inflation
+There is a heightened risk that the recent surge in the global
+prices of energy may pass through to the prices of non-energy
+goods and services. Recent experience suggests that this pass-
+through effect is likely to be relatively small and spread out over a
+period of about two years. However, this experience may under-
+state the pass-through of the recent increase in energy prices
+owing to its expected persistence.
+On the other hand, the appreciation of the Canadian dollar
+since early 2003 is expected to continue to exert some slight
+downward pressure on core inflation.
+B A N K  O F  C A N A D A
+30
+Increases in average hourly earnings of permanent workers are
+expected to rise somewhat between now and 2006. At the same
+time, with growth in labour productivity expected to pick up over
+this period, the projected year-to-year increase in unit labour
+costs, while rising, should be at or below 2 per cent through the
+projection horizon.
+Implications of money growth
+Growth in the narrow money aggregates—M1+ and M1++—
+has continued its upward trend since the last Report. Although the
+pace moderated somewhat in July and August, it remains strong
+on a year-over-year basis. This strength is broadly consistent with
+the low interest rate environment and suggests strong output
+growth in coming quarters (Chart 19).
+Since the last Report, the growth of broad money—M2++— has
+continued to recover from the low levels of 2003. This recovery is
+attributed to the faster growth of the narrow money aggregates
+and, to a lesser extent, faster growth in non-money-market mutual
+funds. The stronger growth in M2++ points to a reduction in the
+risk of disinflationary pressure (Chart 20).
+Chart 19
+Growth of Real GDP and M1+ and M1++
+Quarter-over-quarter percentage change at annual rates
+* Two-quarter moving average of growth in M1+ and M1++ (deﬂated by the core CPI),
+one quarter earlier
+M1++*
+(left scale)
+GDP
+(quarter/quarter)
+(right scale)
+M1+*
+(left scale)
+-12
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+31
+Inflation projection
+The excess supply in the Canadian economy, which was evi-
+dent through most of 2003 and into early 2004, should keep core
+inflation slightly below longer-run expectations over the next few
+quarters. The past appreciation of the Canadian dollar is also
+expected to exert a little downward pressure on the core rate
+through 2005.
+Core inflation is expected
+to be about 1.5 per cent
+for the rest of 2004 . . .
+The year-over-year rate of increase in the core CPI is projected
+to remain at about 1.5 per cent for the rest of this year. This out-
+look incorporates larger monthly increases in the seasonally
+adjusted core CPI relative to those experienced in the first eight
+months of 2004, because recent price discounting for such items as
+clothing and non-shelter services is expected to moderate, and
+annual increases for tuition fees and property taxes are antici-
+pated. In view of the volatility in the core rate observed in 2004 to
+date, the level of uncertainty surrounding the near-term monitor-
+ing of core inflation is somewhat higher than normal.
+. . . before moving up to
+the 2 per cent target by
+the end of 2005.
+With the economy operating near its potential over the projec-
+tion period, the effects of other factors roughly cancelling each
+other, and inflation expectations remaining well anchored, the core
+rate of inflation is projected to move up to the 2 per cent target by
+the end of 2005 and to remain at 2 per cent through 2006 (Table 3).
+Chart 20
+Core Inﬂation and Broad Money Growth
+Year-over-year percentage change
+Core CPI
+(right scale)
+M2++
+(left scale)
+3
+5
+7
+9
+-2
+0
+2
+4
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+B A N K  O F  C A N A D A
+32
+Total CPI inflation is
+likely to move well above
+the core rate and remain
+there until mid-2005.
+Developments in the markets for crude oil will continue to
+have a crucial impact on the outlook for the 12-month rate of
+increase in the total CPI (Chart 18). Based on the assumption that
+the price of crude oil will remain above US$50 per barrel through
+to mid-2005, total CPI inflation is likely to rise near the top of the
+target range and stay there until the middle of next year. With the
+WTI price of oil assumed to ease below US$50 per barrel in the
+second half of 2005 and then to decrease further to US$43 per bar-
+rel by the second half of 2006, total
+CPI inflation should fall
+sharply in the second half of next year and stay below the core
+rate of inflation through 2006.
+Table 3
+Projection for Core and Total CPI Inﬂation
+Year-over-year percentage change*
+2004
+2005
+2006
+Q3
+Q4
+Q1
+Q2
+H2
+H1
+H2
+Core inflation
+1.6 (1.7)
+1.5 (1.6)
+1.7 (1.8)
+1.8 (1.8)
+1.9 (1.9)
+2.0 (2.0)
+2.0
+Total CPI
+2.0 (2.2)
+2.8 (2.2)
+3.1 (1.8)
+3.0 (1.8)
+1.9 (1.6)
+1.5 (1.7)
+1.7
+Assumption for the Price of West Texas Intermediate Crude Oil (US$ per barrel)
+WTI (level)
+44 (38)
+54 (38)
+53 (36)
+51 (36)
+48 (35)
+45 (33)
+43
+* Figures in parentheses are from the July Monetary Policy Report Update.
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+33
+BIBLIOGRAPHY
+Bank of Canada. 1991. “Targets for reducing inflation: Announce-
+ments and background material.” Bank of Canada Review
+(March): 3–21.
+__________. 1991. “Targets for reducing inflation: Further opera-
+tional and measurement considerations.” Bank of Canada
+Review (September): 3–23.
+__________. 2001. “Joint Statement of the Government of Canada
+and the Bank of Canada on the Renewal of the Inflation-
+Control Target.” Press Release (17 May 2001) and Back-
+ground Information. Reprinted in Bank of Canada Review
+(Summer): 57–67.
+__________. 2004. Business Outlook Survey (Autumn).
+Canada.
+Statistics
+Canada.
+Labour
+Force
+Information. Statistics
+Canada Catalogue No. 71-001-PPB (monthly). Ottawa:
+Public Works and Government Services Canada.
+Conference Board of Canada. 2004. Index of Business Confidence
+(Autumn).
+__________. 2004. Index of Consumer Attitudes (September).
+Consensus
+Economics
+Inc. 2004. Consensus
+Forecasts. Various
+issues.
+Crawford, A. 2001. “Predictability of Average Inflation over Long
+Time Horizons.” Bank of Canada Review (Autumn): 13–20.
+Macklem, T. 2001. “A New Measure of Core Inflation.” Bank of
+Canada Review (Autumn): 3–12.
+The Bank of Canada’s Monetary Policy Report is published semi-
+annually in April and October. Regular Updates are published in
+July and January. Copies of the full Report, the Summary, and the
+Update may be obtained by contacting Publications Distribution,
+Communications Department, Bank of Canada, Ottawa, Ontario,
+Canada K1A 0G9.
+Telephone: (613) 782-8248; e-mail: publications@bankofcanada.ca
+Web site: http:/
+/www.bankofcanada.ca
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+35
+APPENDIX
+Inflation Performance since May 2001
+In May 2001, the Government of Canada and the Bank
+announced the renewal of the inﬂation-control target for a period of
+five years to the end of 2006. The Bank announced its intention to
+strengthen the way in which the target arrangements would be
+implemented in order to increase the predictability of inflation
+over longer time horizons. Inflation performance since May 2001 is
+reviewed here to assess how well this commitment has been met.
+The Bank’s commitment to keep future inflation at the 2 per
+cent target midpoint implies that inflation should be expected to
+average 2 per cent over extended periods. Indeed, the average
+annualized rate of inflation for the CPI excluding the effect of
+changes in indirect taxes (CPIXT)1 has been 1.7 per cent since May 2001
+(Chart A1).
+With monetary policy systematically directed to moving infla-
+tion to 2 per cent over a six-to-eight-quarter horizon, most out-
+comes for 12-month inflation will be contained within a range of
++/-1 per cent around this target midpoint. Therefore, in Chart A1,
+1. This measure is the focus here because the Bank’s policy actions do not try
+to offset the ﬁrst-round effects of changes in indirect taxes. Because of
+increases in tobacco taxes, the average rate of inﬂation for the total CPI was
+1.9 per cent for the same period.
+Chart A1
+CPI Excluding the Effect of Changes in Indirect Taxes
+Average percentage change since May 2001, at annual rates
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+2002
+2003
+2004
+Lower band for average inﬂation
+since May 2001
+CPIXT
+Upper band for average inﬂation
+since May 2001
+B A N K  O F  C A N A D A
+36
+the range shown for May 2002 is +/-1 per cent around 2 per cent.
+However, the width of the range containing the same frequency
+of inflation outcomes would decline over time when the average
+inflation rate is calculated over a longer period if there is no
+correlation between non-overlapping 12-month inflation rates
+(i.e., if deviations from target are truly random). In Chart A1, this
+characteristic is shown by the diminishing distance over time
+between the upper and lower bands. For more details, see Craw-
+ford (2001).
+Other approaches can be used to assess the predictability of
+inflation over horizons longer than one year. For instance, the
+annualized rate of CPIXT inflation over a two-year horizon has
+been within 1 per cent of the target 95 per cent of the time since
+May 2001 (Table A1). It has also been more tightly centred around
+the target midpoint than in the preceding period (from December
+1996 to April 2001). As a result, the average annual rates of change
+measured from December 1994 for CPIXT have been very close to
+2 per cent over most of the period from May 2001 to August 2004
+(Chart A2).2 Correspondingly, measures of inflation expectations
+over horizons of two years have remained tightly clustered
+around the target midpoint.
+Monetary policy cannot keep inflation at exactly 2 per cent
+each month. Factors such as unexpected disturbances in aggregate
+demand and supply and large changes in the prices of volatile CPI
+components, such as energy, can move observed inflation above or
+below the target midpoint. Nonetheless, if the conduct of mone-
+tary policy is systematically focused on moving inflation towards
+Table A1
+Annualized Inﬂation over Two-Year Horizons
+CPI excluding the effect of changes in indirect taxes (CPIXT)
+Percentage of time within a range
+around the target midpoint
+Range
++/-0.7%
++/-0.8%
++/-1.0%
+December 1996 to April 2001
+62
+81
+91
+May 2001 to August 2004
+90
+95
+ 95
+May 2002 to August 2004
+96
+100
+100
+2. December 1995 was the ﬁrst month in which monetary policy had a target
+range with a midpoint of 2 per cent for the 12-month inﬂation rate.
+M O N E T A R Y
+P O L I C Y
+R E P O R T — O C T O B E R
+2 0 0 4
+37
+the target midpoint, actual outcomes should be within the target
+range a high percentage of the time. Indeed, the 12-month rate of
+change of the CPIXT has been within the target range just under
+70 per cent of the time for the period under review, very close to
+the outcome for the preceding period from December 1995 to
+April 2001 (Table A2). Moreover, transitory price movements in
+the volatile components of CPIXT have been mainly responsible for
+the movements of the 12-month inflation rate that were outside
+the target range over this period, since the core rate of inflation
+has been within 1 per cent of the target midpoint only marginally
+less often than in the preceding period (Table A3).3 Indeed, unusu-
+ally large fluctuations in the prices of energy commodities since
+May 2001 have contributed to somewhat more frequent, although
+temporary, movements in the 12-month inflation rate for the CPIXT
+outside the target range than was the case in the preceding period
+from December 1995 to April 2001.
+3. This was due to a large increase in insurance premiums between the end of
+2001 and early 2003, which pushed the core rate of inﬂation temporarily
+above the upper limit of the target range at the end of 2002 and early 2003.
+Chart A2
+CPI Excluding the Effect of Changes in Indirect Taxes
+Average percentage change since December 1994, at annual rates
+0
+1
+2
+3
+4
+0
+1
+2
+3
+4
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+Lower band for average inﬂation
+since December 1994
+CPIXT
+Upper band for average inﬂation
+since December 1994
+B A N K  O F  C A N A D A
+38
+Table A2
+Percentage of Time 12-Month Inﬂation Was Within
+a Range Around the Target Midpoint
+CPI excluding the effect of changes in indirect taxes (CPIXT)
+Range
++/-1%
++/-1.2%
++/-1.5%
+December 1995 to April 2001
+74
+85
+100
+May 2001 to August 2004
+68
+70
+83
+Table A3
+Percentage of Time Core Inﬂation (CPIX) Was Within
+a Range Around the Target Midpoint
+Range
++/-0.7%
++/-0.8%
++/-1.0%
+December 1995 to April 2001
+69
+85
+97
+May 2001 to August 2004
+88
+88
+93
