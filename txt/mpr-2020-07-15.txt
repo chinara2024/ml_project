@@ -1,0 +1,2072 @@
+Monetary Policy
+Report
+July 2020
+Canada’s Inﬂ
+ ation-Control Strategy
+Canada’s Inﬂ
+ ation-Control Strategy1
+Inﬂ
+ ation targeting and the economy
+ 
+
+The Bank’s mandate is to conduct monetary policy to promote 
+the economic and f
+ nancial well-being of Canadians.
+ 
+
+Canada’s experience with inf
+ ation targeting since 1991 has 
+shown that the best way to foster conf
+ dence in the value 
+of money and to contribute to sustained economic growth, 
+employment gains and improved living standards is by keeping 
+inf
+ ation low, stable and predictable.
+ 
+
+In 2016, the Government and the Bank of Canada renewed 
+Canada’s inf
+ ation-control target for a further f
+ ve-year period, 
+ending December 31, 2021. The target, as measured by the 
+consumer price index (CPI), remains at the 2 percent midpoint 
+of the control range of 1 to 3 percent.
+The monetary policy instrument
+ 
+
+The Bank carries out monetary policy through changes in the 
+target for the overnight rate of interest.2 These changes are 
+transmitted to the economy through their inf
+ uence on market 
+interest rates, domestic asset prices and the exchange rate, 
+which affect total demand for Canadian goods and services. 
+The balance between this demand and the economy’s 
+production capacity is, over time, the primary determinant of 
+inf
+ ation pressures in the economy.
+ 
+
+Monetary policy actions take time—usually from six to eight 
+quarters—to work their way through the economy and have 
+their full effect on inf
+ ation. For this reason, monetary policy 
+must be forward-looking.
+ 
+
+Consistent with its commitment to clear, transparent 
+communications, the Bank regularly reports its perspective on 
+the forces at work on the economy and their implications for 
+inf
+ ation. The Monetary Policy Report is a key element of this 
+approach. Policy decisions are typically announced on eight 
+pre-set days during the year, and full updates of the Bank’s 
+outlook, including risks to the projection, are published four 
+times per year in the Monetary Policy Report.
+Inﬂ
+ ation targeting is symmetric and ﬂ
+ exible
+ 
+
+Canada’s inf
+ ation-targeting approach is symmetric, which 
+means that the Bank is equally concerned about inf
+ ation rising 
+above or falling below the 2 percent target.
+ 
+
+Canada’s inf
+ ation-targeting framework is f
+ exible. Typically, 
+the Bank seeks to return inf
+ ation to target over a horizon of six 
+to eight quarters. However, the most appropriate horizon for 
+returning inf
+ ation to target will vary depending on the nature 
+and persistence of the shocks buffeting the economy.
+Monitoring inﬂ
+ ation
+ 
+
+In the short run, the prices of certain CPI components can be 
+particularly volatile. These components, as well as changes in 
+indirect taxes such as GST, can cause sizable f
+ uctuations in 
+CPI.
+ 
+
+In setting monetary policy, the Bank seeks to look through 
+such transitory movements in CPI inf
+ ation and focuses 
+on a set of “core” inf
+ ation measures that better ref
+ ect the 
+underlying trend of inf
+ ation. In this sense, these measures 
+act as an operational guide to help the Bank achieve the CPI 
+inf
+ ation target. They are not a replacement for CPI inf
+ ation.
+ 
+
+The Bank’s three preferred measures of core inf
+ ation are CPI-
+trim, which excludes CPI components whose rates of change 
+in a given month are the most extreme; CPI-median, which 
+corresponds to the price change located at the 50th percentile 
+(in terms of basket weight) of the distribution of price changes; 
+and CPI-common, which uses a statistical procedure to track 
+common price changes across categories in the CPI basket.
+1 See Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Inf
+ ation-Control Target (October 24, 2016) and Renewal of the 
+Inf
+ ation-Control Target: Background Information—October 2016, which are both available on the Bank’s website.
+2 When interest rates are at very low levels, the Bank has at its disposal a suite of extraordinary policy measures that could be used to provide additional  
+monetary 
+stimulus and/or improve credit market conditions. The Framework for Conducting Monetary Policy at Low Interest Rates, available on the Bank’s website, 
+describes these measures and the principles guiding their use.
+The Monetary Policy Report is available on the Bank of Canada’s website at bankofcanada.ca.
+For further information, contact:
+Public Information
+Communications Department
+Bank of Canada
+234 Wellington Street
+Ottawa, Ontario  K1A 0G9
+Telephone: 613-782-8111;
+1-800-303-1282 (toll-free in North America)
+Email: info@bankofcanada.ca  Website: bankofcanada.ca
+ISSN 1201-8783 (Print)
+ISSN 1490-1234 (Online)
+© Bank of Canada 2020
+Monetary Policy Report
+Monetary Policy Report
+July 2020
+This is a report of the Governing Council of the Bank of Canada: 
+Tiff Macklem, Carolyn A. Wilkins, Timothy Lane, Lawrence Schembri, Paul Beaudry and Toni Gravelle.
+Contents
+Contents
+Overview .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+A central scenario is provided rather than a projection  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2
+Global economy . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  5
+The global economic contraction was sharp and sudden . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  6
+Growth is picking up as economies reopen . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  7
+Demand is expected to remain weak relative to supply . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  8
+Policy actions continue to provide support  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  8
+Commodity prices have partially rebounded  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  9
+Canadian economy .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  11
+Box 1: Key inputs to the central scenario . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 12
+Fiscal and monetary authorities responded swiftly .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+The reopening phase of the recovery is underway . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+CPI inflation has fallen sharply . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+Box 2: Adjusted CPI inflation shows only slightly less decline 
+than CPI inflation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 18
+Growth moderates in the recuperation phase .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+Household spending will rise, but caution may linger . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+Business investment is likely to remain weak .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+The energy sector is expected to remain subdued  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+Exports will recover at a moderate pace . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  23
+A slow rebound in demand weighs on inflation . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  23
+Box 3: Estimating the economy’s supply in the wake of COVID-19  .  .  .  .  .  24
+Monetary policy tools  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  27
+Alternative scenarios and risks  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  29
+Overview
+Overview
+The COVID-19 pandemic has caused a worldwide health-care emergency 
+as well as an economic calamity. Both are on a scale few have seen in 
+their lifetime. The virus has spread broadly and rapidly, and to contain it, 
+governments introduced public health measures that curtailed economic 
+activity. The virus, combined with these necessary measures, has brought 
+about the steepest and deepest economic decline since the Great 
+Depression. Virtually every aspect of the Canadian and global economies 
+has been affected, causing widespread losses in jobs and business 
+incomes.
+The course of the pandemic is inherently unknowable, and its evolution 
+over time and across regions remains highly uncertain. New cases of 
+the virus are now at very low levels in China, but many other emerging-
+market economies (EMEs) are now seeing their number of new cases 
+increase rapidly (Chart 1). Some advanced economies that were hard-hit 
+at the outset have slowed the rise in new cases and are reopening their 
+economies. In the United States, infections have reached new highs. 
+Globally, hundreds of thousands of lives have been lost.
+ 
+Chart 1:
+The course of the pandemic remains highly uncertain
+Daily new cases per million people, 7-day moving average
+a. Advanced economies
+ Canada
+ United States
+ Euro area
+ Japan
+ United Kingdom
+b. Emerging-market economies
+ Mexico
+ India
+ Russia
+ China
+ South Africa
+ Brazil
+ 
+Note: The fi
+ rst occurrence along the bottom axis corresponds to the fi
+ rst day when the number of new cases per million people is greater than one.
+Sources: World Health Organization via Haver Analytics, UK Department of Health and 
+Social Care, Public Health England and Bank of Canada calculations 
+Last observation: July 10, 2020
+0
+50
+100
+150
+200
+0
+30
+60
+90
+120
+150
+Number of cases
+Number of days
+0
+50
+100
+150
+200
+0
+30
+60
+90
+120
+150
+Number of cases
+Number of days
+	
+Overview	
+1
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+In Canada, the number of new COVID-19 cases has fallen sharply from 
+its April high, and the economic recovery has begun in all provinces and 
+territories and across many sectors. Consequently, economic activity is 
+picking up notably as measures to contain the virus are relaxed. This is a 
+welcome sign.
+The Bank of Canada expects a sharp rebound in economic activity in the 
+reopening phase of the recovery, followed by a more prolonged recuperation 
+phase, which will be uneven across regions and sectors (Figure 1). As a 
+result, Canada’s economic output will likely take some time to return to its 
+pre-COVID-19 level. Many workers and businesses can expect to face an 
+extended period of difficulty.
+A central scenario is provided rather than a projection
+The economic outlook is extremely uncertain, largely because of the 
+unpredictable course of the virus. Reflecting this, the July Monetary Policy 
+Report provides a central scenario for the economy rather than the usual 
+economic projection.
+The central scenario is informed by the Bank’s analysis and tries to balance 
+the likelihood of better and worse scenarios, but it is highly conditional on 
+our assumptions about the virus. In particular, the central scenario assumes 
+the following:
+	
+ there will not be a broad-based second wave of the pandemic in Canada 
+or globally;
+	
+ most large-scale containment measures will be gradually lifted; and
+	
+ the pandemic will have largely run its course by mid-2022, likely because 
+of the widespread availability of a vaccine or effective treatment.
+In addition to the fundamental uncertainty about the course of the virus, 
+there is also considerable uncertainty about its impacts. In particular, there 
+is not enough information to estimate how deeply the economy may be 
+scarred from business closures or massive job losses. Further, once supply 
+is restored, it is unclear how quickly demand will recover because people 
+may have changed their priorities, work patterns and social behaviours as a 
+result of the pandemic.
+ 
+Figure 1: The recovery in economic activity and household spending follows 
+two phases: reopening and recuperation 
+Containment
+Reopening
+Recuperation
+Time
+	
+2
+	
+Overview 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+The Bank departed from the usual structure for the Monetary Policy Report 
+in April by not including a base-case projection. For this July Report, 
+the Bank moves in the direction of the traditional format by providing a 
+central scenario, but given the unusual level of uncertainty, the information 
+provided is somewhat less precise. For example, Table 1 and Table 2 in this 
+Report are based on the Bank’s central scenario. Less detail is provided 
+on the breakdown of the projection for global economic growth and on 
+the compositional contributions to the growth of Canada’s gross domestic 
+product (GDP). 
+	
+Overview	 3
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Global economy
+Global economy
+After a historic plunge in the first half of the year, global economic activity 
+is beginning to pick up. The increase in global demand has contributed to 
+a partial rebound in the prices of commodities and some financial assets. 
+The decisive actions taken by many governments and central banks have 
+put households and businesses in a position to resume spending and 
+production as containment measures are relaxed. But there is significant 
+ground to make up, and regional flare-ups of the virus could impede the 
+recovery.
+In the Bank’s central scenario, global output rebounds in the second half of 
+this year, although the timing and strength of the recovery vary considerably 
+from one region to another. The effects of both ongoing physical distancing 
+and elevated uncertainty are assumed to continue to restrain economic 
+activity over the scenario’s time horizon. Global output falls by about 
+5 percent in 2020 and then grows by around 5 percent on average in 
+2021 and 2022 (Table 1). Despite this strong rebound, global output at 
+the end of 2022 remains about 4 percent below the projected level in the 
+January Report.
+Table 1: Central scenario for global economic growth
+Share of real global 
+GDP* (percent)
+Projected growth (percent) 
+2019
+2020
+2021
+2022
+United States
+15
+2.3
+-8.1
+3.4
+4.3
+Euro area
+11
+1.2
+-9.3
+4.2
+3.6
+Japan
+4
+0.7
+-6.1
+3.8
+2.6
+China
+19
+6.1
+-0.3
+8.8
+6.3
+Oil-importing EMEs‡
+33
+3.1
+-4.8
+5.8
+6.1
+Rest of the world§
+17
+1.3
+-6.9
+2.2
+6.1
+World
+100
+2.9
+-5.2
+5.2
+5.4
+* GDP shares are based on International Monetary Fund (IMF) estimates of the purchasing-power-
+parity valuation of country GDPs for 2018 from the IMF’s October 2019 World Economic Outlook.  
+The 
+individual shares may not add up to 100 due to rounding.
+ 
+‡ The oil-importing  
+emerging-market economies (EMEs) grouping excludes China. It is composed of 
+large EMEs from Asia, Latin America, the Middle East and Africa (such as India, Brazil and South Africa) 
+as well as newly industrialized economies (such as South Korea).
+ 
+§ “Rest of the world” is a grouping of all other economies not included in the fi
+ rst fi
+ ve regions. It is 
+composed of oil-exporting EMEs (such as Russia, Nigeria and Saudi Arabia) and other advanced 
+economies (such as Canada, the United Kingdom and Australia).
+Source: Bank of Canada
+	
+Global economy	 5
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Uncertainty around this scenario is considerable. There are a multitude of 
+scenarios both stronger and weaker than the central one presented here. 
+Yet overall, the risks appear to be tilted to the downside, largely because of 
+the potential for a second wave of the virus.
+The global economic contraction was sharp and sudden
+Measures to control the spread of COVID‑19 forced many businesses to 
+reduce or halt their operations, resulting in unprecedented job losses. 
+Global supply chains were disrupted, and global trade fell sharply. The 
+containment measures affected mainly labour-intensive activity, resulting 
+in a sharper decline in services than in manufacturing. In addition, the 
+pandemic and containment measures were accompanied by an abrupt 
+deterioration in business and household confidence and significant changes 
+in behaviour. The Bank estimates that the level of global GDP in the second 
+quarter was about 10 percent below its level in the fourth quarter of 2019.
+Inflation also fell in all major economies (Chart 2). Prices of gasoline 
+dropped sharply in March and April before partially rebounding in May. The 
+plunge in energy prices reflected the rapid and large fall in global demand. 
+Lower prices for transportation services and at hotels and restaurants also 
+contributed to weak inflation in most regions. In contrast, food prices rose 
+at a faster pace than usual. Overall, the inflationary pressures from supply 
+disruptions were outweighed by the effects of the fall in demand.
+ 
+Chart 2:
+Infl
+ ation fell across all major economies
+Year-over-year infl
+ ation, monthly data
+ United States (left scale)
+ Euro area (left scale)
+ China (right scale)
+Note: Measures for infl
+ ation vary across regions. The United States uses the personal consumption 
+expenditure price index; the euro area uses the harmonized index of consumer prices; China uses the 
+consumer price index.
+Sources: US Bureau of Economic Analysis, Eurostat and  
+Last observations: United States and euro area,
+National Bureau of Statistics of China via Haver Analytics  
+May 2020; China, June 2020
+0
+2
+4
+6
+0
+1
+2
+3
+2018
+2019
+2020
+%
+%
+	
+6
+	
+Global economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Growth is picking up as economies reopen
+China was the first major country to allow some businesses to restart their 
+operations, with strict infection prevention and control measures in place 
+to rein in any new outbreaks. China’s industrial production has rebounded 
+strongly, returning to pre-lockdown levels (Chart 3). Demand indicators 
+such as retail sales, however, have risen less than production as consumers 
+remain cautious. As well, manufacturing investment is sluggish, suggesting 
+that businesses are still uncertain about the strength of future demand, 
+given the pandemic and ongoing trade tensions with the United States.
+Economic conditions vary considerably across other EMEs. Some East 
+Asian countries have managed to keep the number of COVID‑19 cases low 
+and their economies mostly open. Some emerging European countries that 
+had put lockdowns in place have recently allowed businesses to reopen. 
+Meanwhile, many Latin American and African EMEs are still experiencing 
+the first wave of the pandemic, at great human cost. These countries are 
+struggling to contain the virus, which may prolong the negative economic 
+effects and delay their recoveries. This, coupled with high levels of debt, is 
+raising financial stability concerns in some EMEs.
+In many advanced economies, activity picked up in May and June. Surveys 
+indicated an increase in activity and confidence in the euro area. Production, 
+employment and household spending also increased in the United States, 
+but the resurgence in new COVID‑19 cases since the middle of June is 
+slowing the rebound as many states are scaling back their reopening plans.
+ 
+Chart 3: Activity has started to pick up in some countries
+Index: December 2019 = 100, monthly data 
+a. Industrial production
+b. Retail sales volume
+ United States
+ Germany
+ China
+ Japan
+Note: Retail sales in Germany exclude motor vehicles. Retails sales data for China are nominal.
+Sources: US Federal Reserve Board, US Bureau of Labor Statistics, US Census Bureau, Deutsche Bundesbank, National Bureau 
+of Statistics of China and Japan Ministry of Economy, Trade and Industry via Haver Analytics, and Bank of Canada calculations 
+Last observation: May 2020
+55
+70
+85
+100
+115
+2018
+2019
+2020
+Index
+55
+70
+85
+100
+115
+2018
+2019
+2020
+Index
+	
+Global economy	 7
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Demand is expected to remain weak relative to supply
+In the second half of this year, the pace of global growth rebounds strongly 
+in the central scenario. The recovery then slows in 2021 and 2022, but 
+growth is still relatively strong. In the central scenario, the level of economic 
+activity reaches its pre-COVID‑19 level around the end of 2021. While the 
+impact of the pandemic is negative for both supply and demand, the effects 
+on demand are larger.
+On the supply side, production practices in some sectors will need to 
+adjust to include physical distancing measures. As companies evaluate the 
+vulnerability of cross-border trade, supply chains could become shorter, 
+more local and possibly more diversified after the pandemic. On the 
+demand side, even when lockdown restrictions relax fully, precautionary 
+physical distancing will likely continue to restrain household spending. In 
+addition, elevated indebtedness and economic uncertainty are expected to 
+cause some businesses to scale back or cancel large investment projects.
+Policy actions continue to provide support
+Authorities in many countries were able to quickly implement extraordinary 
+measures to support household incomes and limit the economic damage 
+related to the shutdown. These actions will support the recovery as activity 
+resumes.
+Governments in advanced economies and some large EMEs, such as China 
+and Brazil, have significantly increased resources to fight the pandemic and 
+soften its economic blow. These resources include transfers to households 
+and businesses to replace a portion of their lost income. Many countries 
+have also implemented loan guarantees and direct funding programs to help 
+businesses facing liquidity shortages. Authorities in some of these countries 
+are considering additional fiscal support. In many other EMEs, fiscal support 
+has generally been more modest due to already elevated debt levels.
+Central banks around the world have taken decisive measures to stabilize 
+the financial system and support credit flows to businesses and households. 
+These include measures to ease short-term funding strains and to improve 
+liquidity. Major central banks have reduced their policy rates or eased 
+through other measures. In the United States, the US Federal Reserve 
+lowered the federal funds rate, significantly increased its purchase of US 
+Treasuries and mortgage-backed securities and introduced a series of other 
+programs to support the flow of credit. In addition, it extended its network 
+of US-dollar swap arrangements in response to the increased stress in the 
+offshore US dollar market.
+Global financial conditions have improved substantially since the April 
+Report, and this is helping support the recovery. Markets have reacted 
+positively to the fiscal and monetary measures, the pickup in global demand 
+and signs of receding negative tail risks. Since the April Report, equity 
+prices have recovered a significant portion of their losses, credit spreads 
+have narrowed, and volatility has declined across all markets (Chart 4). 
+Financial market indicators for EMEs have also generally improved, although 
+by less in hard-hit economies such as Brazil, South Africa and Mexico, 
+where the pandemic is still spreading rapidly.
+	
+8
+	
+Global economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+The US dollar has depreciated somewhat against major currencies 
+since April, including the Canadian dollar. Safe-haven flows into assets 
+denominated in US dollars declined, and some flows reverted to assets 
+denominated in other currencies. The increase in commodity prices has 
+also supported the Canadian dollar. Government bond yields in advanced 
+economies remain close to their historical lows due to central bank asset 
+purchases and financial market expectations that central banks will keep 
+their policy rates low for an extended period.
+Commodity prices have partially rebounded
+Global oil prices have increased since the April Report but remain about 
+30 percent below pre-pandemic levels. The recent rise reflects both an 
+increase in global oil consumption as economies reopen and reduced 
+production (Chart 5). Low oil prices led members of the Organization of 
+the Petroleum Exporting Countries (OPEC) and some other non-OPEC oil 
+producers to agree to reduce output by 9.7 million barrels per day compared 
+with their October 2018 levels.1 North American producers also cut output 
+by about 4 million barrels per day.
+In its central scenario, the Bank assumes that the prices of Brent and West 
+Texas Intermediate (WTI) oil will remain close to their recent average levels, 
+about US$40 per barrel. Risks around this assumption are tilted to the 
+upside over the medium term because prices could continue to increase as 
+global growth recovers and oil consumption picks up.
+1	 This corresponds roughly to a production cut of 8 million barrels per day relative to their March 2020 
+levels.
+ 
+Chart 4:
+Financial conditions have improved signifi
+ cantly
+Daily data
+a. Equity prices
+Index: January Report = 100
+ Canada—S&P/TSX composite
+ United States—S&P 500
+ Euro area—STOXX 50
+ China—SSE composite
+ Emerging markets—MSCI
+b. Corporate credit spreads
+ Canada (left scale)
+ United States (left scale)
+ Euro area (left scale)
+ Emerging markets 
+(right scale)
+Note: The spreads for the United States and emerging markets are the option-adjusted spreads between US-dollar-denominated bonds and US Treasuries. 
+Those of Canada and the euro area are relative to Canadian and German sovereign yields, respectively. All corporate yields are based on investment-grade bonds, 
+except for those of emerging markets, which include a number of high-yield bonds.
+Sources: Bloomberg Finance L.P. and Bank of Canada calculations 
+Last observation: July 10, 2020
+60
+80
+100
+120
+2019
+2020
+Index
+200
+400
+600
+800
+80
+160
+240
+320
+400
+2019
+2020
+Basis points
+Basis points
+1,000
+April Report
+April Report
+	
+Global economy	 9
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+The price of Western Canadian Select (WCS) has also risen and was 
+recently hovering around US$30 per barrel. The spread between the prices 
+of WTI and WCS has narrowed to about US$10, due in part to the cuts in 
+Canadian output. Moreover, the decline in demand was more pronounced 
+for light oil such as WTI, which is used more in jet fuel and gasoline, than for 
+heavy oils such as WCS.
+The Bank’s non-energy commodity price index has recovered its decline 
+from February to April. The rise in the price of base metals is consistent 
+with the gradual recovery in industrial production and the increases in 
+infrastructure spending in China and some advanced economies. Prices for 
+lumber have risen, reflecting the closures of sawmills due to COVID‑19.
+ 
+Chart 5:
+Oil consumption is rebounding and production has been cut
+Monthly data
+ Global oil consumption (left scale)
+ Global oil production (left scale)
+ Change in inventories 
+(right scale)
+Sources: US Energy Information Administration
+and Bank of Canada calculations 
+Last data plotted: December 2020 
+-8
+0
+8
+16
+24
+76
+84
+92
+100
+108
+2019
+2020
+Million barrels per day
+Million barrels per day
+	
+10
+	
+Global economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Canadian economy
+Canadian economy
+The Canadian economy is starting to recover from the tragic and 
+devastating effects of the pandemic. The human and economic costs would 
+be considerably worse if the containment measures had not succeeded in 
+flattening the curve. In the second quarter, when containment measures 
+were at their most restrictive, economic activity is estimated to have fallen 
+about 15 percent below its level at the end of 2019. The economy appears to 
+have hit bottom in April, with about 3 million jobs lost.
+The economic contraction and subsequent recovery will look very different 
+from those of a typical business cycle. The impact of the containment 
+measures varied substantially across industries and types of jobs. Some 
+jobs continued with little disruption because of the availability of online 
+tools and the ability to work remotely. Others were hit very hard, particularly 
+within the service sector, including jobs in travel, hospitality and personal 
+care services. In addition, the burden has been falling disproportionately on 
+some segments of the workforce, including lower-income earners, younger 
+workers, recent immigrants and women (Chart 6).
+ 
+Chart 6:
+Employment losses have been larger for younger workers, recent 
+immigrants and women
+Change in employment rate between February and June 2020, seasonally adjusted
+* 15 to 24 years old
+† Data for these two categories are not seasonally adjusted and, as a result, are not directly comparable 
+with the data for the gender and age groups.
+Sources: Statistics Canada and Bank of Canada calculations 
+Last observation: June 2020 
+-14
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+Percentage points
+Younger
+workers*
+Workers
+aged 25+
+Born in 
+Canada†
+Women
+Men
+Immigrants,
+landed 10 
+years earlier 
+or less†
+	
+Canadian economy	 11
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+The strong, well-targeted and complementary fiscal and monetary policy 
+actions provide a solid foundation for the recovery. Still, as reopening 
+progresses, many people will probably continue to fear contracting the 
+virus, and uncertainty about job security is likely to persist. Both consumer 
+and business confidence are therefore expected to remain subdued, 
+restraining spending and employment, particularly in activities that involve 
+in-person interaction. In addition, the pandemic has led to changes in 
+preferences and behaviours. Some of these shifts are expected to endure, 
+with lasting effects that could lead to structural changes in the economy 
+over the longer term.
+Despite the significant hardships that Canadians continue to face, the 
+economy has so far avoided the most severe scenarios presented in the 
+April Report. There are already signs that the reopening of businesses 
+will lead to an initial strong bounce back in economic growth (Table 2). 
+However, this is expected to give way to a recuperation phase during which 
+the pace of the recovery will moderate as the pandemic continues to affect 
+confidence and the economy undergoes widespread adjustments, including 
+in the energy sector. Consumer price index (CPI) inflation is expected to 
+remain weak before gradually strengthening toward the 2 percent target, as 
+the drag from low gasoline prices and other temporary effects dissipate and 
+demand recovers, reducing economic slack (Box 1).
+Box 1
+Key inputs to the central scenario 
+The Bank’s central scenario is conditional on several key 
+assumptions that aﬀ
+ ect the outlook for the Canadian 
+economy . In addition to the assumptions about the 
+progression of the pandemic and public health measures 
+described in the Overview section, the key inputs into the 
+Bank’s central scenario are as follows:  
+• Oil prices are assumed to remain near recent levels . 
+The per-barrel prices in US dollars are assumed to be 
+$40 for Brent and West Texas Intermediate and $30 for 
+Western Canadian Select . 
+• By convention, the Bank does not forecast the exchange 
+rate in the Monetary Policy Report . In the central scenario, 
+the Canadian dollar is assumed to remain close to recent 
+levels, at about 74 cents US . 
+• The neutral nominal policy rate is deﬁ
+ ned as the real 
+rate consistent with output remaining sustainably at 
+its potential and with infl
+ ation at target, on an ongoing 
+basis, plus 2 percent for infl
+ ation . It is a medium- to long-
+term equilibrium concept . The central scenario assumes 
+the neutral rate is 2 .5 percent, in the lower half of the 
+previously estimated range . The neutral rate will be 
+reassessed more fully in the October Report . 
+• The pandemic and the related containment measures 
+are signiﬁ
+ cantly aﬀ
+ ecting both supply and demand in 
+the Canadian economy . In the central scenario, the Bank 
+assumes that the impact on supply in the ﬁ
+ rst half of 
+2020 is roughly 60 percent of the size of the impact on 
+GDP . The level of output is estimated to have fallen to 
+about 15 percent below its level in the fourth quarter 
+of 2019 . This would imply a gap between demand and 
+supply of roughly 6 to 7 percent in the second quarter . 
+• The degree of uncertainty around these estimates is 
+unusually high due to the extraordinary nature and 
+size of the ec 
+onomic shocks caused by COVID-19 . 
+For additional details about the Bank’s assumptions 
+for supply and potential output in the central scenario, 
+see Box 3 on page 24 . The Bank will provide a more 
+detailed analysis of its long-run assumptions in the 
+October Report .
+	
+12
+	
+Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Fiscal and monetary authorities responded swiftly
+The labour market impact of the containment measures has been severe. 
+Between February and April, some 3 million people were suddenly out of 
+work. In May, the unemployment rate reached a peak of 13.7 percent. An 
+additional 1.4 million people reported that they wanted to work but did 
+not look for a job, suggesting an adjusted unemployment rate of nearly 
+20 percent. Broader measures of underemployment, which include people 
+who were employed but worked less than half their usual hours, suggest 
+that roughly one-third of the labour force was underutilized.
+The federal government quickly launched unprecedented fiscal policy 
+actions to help households and businesses during the lockdown. Policies 
+were introduced to replace lost income and encourage businesses to retain 
+workers.2 The Canada Emergency Response Benefit (CERB) and other 
+transfers have offset lost employment income for many workers. In addition, 
+the Canada Emergency Wage Subsidy (CEWS) has helped businesses 
+maintain relationships with their workers and should reduce longer-term 
+scarring effects of unemployment on the economy. Nearly one-quarter of 
+the respondents to the Bank’s summer Business Outlook Survey reported 
+that this subsidy had enabled them to either avoid or reduce the scale of 
+potential layoffs.
+Businesses also have access to loans through federal programs. The 
+Canada Emergency Business Account in particular has been widely used. 
+It provides up to $40,000 in funding to existing small businesses and will 
+forgive up to $10,000 if the loan is repaid before the end of 2022.
+In addition, federal, provincial and territorial governments have granted 
+deferrals on more than $123 billion in taxes, fees and customs duties. 
+While temporary, these measures have been an important source of relief 
+for many businesses and households facing cash-flow pressures. As 
+well, commercial lenders implemented processes for households to defer 
+mortgage and other debt payments.
+The Bank also responded swiftly to the effects of the pandemic. Starting 
+in late February, uncertainty about how bad things could get and how long 
+the downturn might last prompted a widespread flight to cash and made it 
+difficult for investors to sell assets. In response to the seizing up in financial 
+markets and the economic contraction, the Bank rapidly reduced the policy 
+interest rate to its effective lower bound of 0.25 percent and introduced 
+a range of liquidity facilities and asset purchase programs to help ease 
+2	 For more details, see the April 2020 Monetary Policy Report, the Bank of Canada website and the 
+Government of Canada website.
+Table 2: Summary of the projection for Canada
+Year-over-year percentage change*
+2019
+2020
+2019
+2020
+2021
+2022
+2019
+2020
+2021
+2022
+Q4
+Q1
+Q2
+Q3
+Q4
+Q4
+Q4
+Q4
+CPI infl
+ ation
+2.1
+1.8
+-0.1
+0.4
+2.1
+0.4
+1.3
+1.8
+1.9
+0.6
+1.2
+1.7
+Real GDP
+1.5
+-0.9
+-14.6
+-8.8
+1.5
+-6.8
+4.9
+3.2
+1.7
+-7.8
+5.1
+3.7
+Quarter-over-quarter 
+percentage change†
+0.1
+-2.1
+-13.1
+7.1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* Details on the key inputs to the central scenario are provided in the Overview as well as in Box 1 and Box 3.
+† At annual rates, quarter-over-quarter percentage changes are 0.6 for 2019Q4, -8.2 for 2020Q1, -43.0 for 2020Q2 and 31.3 for 2020Q3. For longer horizons, 
+fourth-quarter-ov 
+er-fourth-quarter percentage changes are presented.
+	
+Canadian economy	 13
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+problems with market functioning. These programs include purchases 
+of Canada Mortgage Bonds, bankers’ acceptances, commercial paper, 
+corporate bonds and provincial and federal government debt.
+Financial markets are now functioning considerably better and, 
+consequently, the use of some facilities has declined (Chart 7). The Bank’s 
+large-scale asset purchases of Government of Canada bonds initially 
+improved liquidity and confidence. Now, with market functioning improved 
+and the economy reopening, these purchases are providing considerable 
+monetary stimulus. The lowering of the policy interest rate to its effective 
+lower bound, the bond purchases and the easing of global financial 
+conditions have all contributed to lower domestic interest rates and made 
+it easier for households and businesses to borrow. For example, the lower 
+yields on five-year Government of Canada bonds are being reflected in 
+cheaper fixed-rate mortgages. These actions have reduced debt-service 
+costs and will contribute to spending that should support the recovery.
+The reopening phase of the recovery is underway
+GDP is estimated to have contracted sharply in the second quarter (Table 2 
+and Chart 8). Timely high-frequency data suggest that the economic fallout 
+was at its worst in April. In May and June, as the number of new COVID‑19 
+cases stabilized and began to decrease, governments started easing the 
+containment restrictions. Labour market indicators suggest that economic 
+activity began expanding in May and accelerated in June. About 1 
+1/4 million 
+jobs were added in these two months, with broad-based, but uneven, 
+increases across sectors (Chart 9).
+ 
+Chart 7:
+Bank of Canada programs helped improve market liquidity
+a. 5-year Government of Canada bond bid-ask spread, 10-day moving 
+average, daily data
+ Benchmark
+ Non-benchmark
+b. Canadian bond bid-ask spread, 4-week moving average, weekly data
+ Corporate
+ Provincial
+Note: GBPP is Government of Canada Bond Purchase Program; CPPP is Commercial Paper Purchase Program; CBPP is Corporate Bond Purchase Program; 
+and PBPP is Provincial Bond Purchase Program.
+Sources: Canadian Depository for Securities and 
+Bank of Canada calculations
+Last observations: Government of Canada bonds, July 10, 2020;
+Canadian bonds, July 6, 2020
+2019
+2020
+0
+5
+10
+15
+20
+25
+30
+35
+Cents
+Jul
+Oct
+Jan
+Apr
+Jul
+0
+20
+40
+60
+80
+100
+120
+140
+2019
+2020
+Cents
+Jul
+Oct
+Jan
+Apr
+Jul
+GBPP announcement
+CPPP announcement
+CBPP and PBPP 
+announcements
+	
+14
+	
+Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+The effects of containment measures differ across businesses, and public 
+health protocols vary across provinces, territories and municipalities. 
+Together, these mean that the process of reopening will be gradual and 
+uneven. Some activities, including motor vehicle sales, have already seen 
+a strong pickup since April. Likewise, housing activity fell sharply during 
+the lockdown but is beginning to recover quickly. In contrast, some of 
+the hardest-hit businesses, such as restaurants, travel and personal care 
+services, have only just started to see improvements in recent weeks and 
+are expected to continue to face significant challenges.
+ 
+Chart 8:
+Output contracted sharply in the second quarter
+Index: 2019Q4 = 100, real quarterly data
+ Consumption
+ Government*
+ Housing
+ Exports
+ Business fi
+ xed investment
+ GDP
+* Government includes government consumption and gross fi
+ xed capital investment.
+Sources: Statistics Canada and Bank of Canada calculations and projections
+75
+80
+85
+90
+95
+100
+105
+2020
+2019
+2021
+2022
+Index
+ 
+Chart 9:
+Workers are being recalled in sectors that are reopening
+Change in employment, monthly data
+ February to March
+ March to April
+ April to June
+Sources: Statistics Canada and Bank of Canada calculations  
+Last observation: June 2020
+Utilities
+Thousands
+Forestry, fshing, mining, quarrying, oil and gas
+Agriculture
+Public administration
+Finance, insurance, real estate, rental and leasing
+Professional, scientifc and technical services
+Business, building and other support services
+Educational services
+Transportation and warehousing
+Other services
+Information, culture and recreation
+Manufacturing
+Health care and social assistance
+Construction
+Wholesale and retail trade
+Accommodation and food services
+-800
+-600
+-400
+-200
+0
+200
+400
+	
+Canadian economy	 15
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+These developments are consistent with measures of consumer and 
+business confidence, which have improved but remain subdued (Chart 10). 
+Despite the programs that have been introduced, some households and 
+businesses are suffering severe financial hardship.
+In the central scenario, about 40 percent of the drop in output in the first 
+half of 2020 is reversed in the third quarter. This reflects the lifting of most 
+containment measures and some associated improvement in confidence. 
+The strength of growth in the third quarter is largely driven by the initial 
+boost from the reopening of businesses and the resulting partial rebound 
+in spending. The pace of growth is therefore unlikely to persist. Overall, the 
+economy has thus far avoided the most severe scenarios presented in the 
+April Report, but considerable economic slack remains.
+CPI inflation has fallen sharply
+Demand for some goods and services has fallen sharply because of the 
+pandemic and related containment measures, triggering sharp declines 
+in prices for gasoline, travel services, and clothing and footwear. In the 
+calculation of inflation, these price declines have heavily outweighed 
+the increase in prices for products that saw a surge in demand, such as 
+household cleaning supplies and non-perishable food, or that suffered from 
+supply disruptions, such as meat (Chart 11).
+The direct and indirect effects of the crisis have been pulling down CPI 
+inflation. As anticipated in the April Report, CPI inflation fell close to zero in 
+April and May. The Bank’s measures of core inflation have also declined, 
+although by far less because they tend to filter out more volatile price 
+movements such as those for gasoline. Core inflation measures ranged from 
+1.4 to 1.9 percent (Chart 12).
+ 
+Chart 10: Consumer confi
+ dence has improved but remains subdued
+Index: January 2020 = 100, monthly data
+ Conference Board of Canada Consumer Confi
+ dence Index
+ Bloomberg Nanos Canadian Confi
+ dence Index (BNCCI)*
+* The July fi
+ gure for the BNCCI is based on weekly data for the two weeks ending July 3 and July 10.
+Sources: Nanos Research Corporation, Conference 
+Board of Canada and Bank of Canada calculations
+Last observations: 
+Conference Board of Canada, June 2020; 
+Bloomberg Nanos, July 2020
+40
+60
+80
+100
+120
+2017
+2018
+2019
+2020
+Index
+	
+16
+	
+Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+The consumption patterns of Canadians have changed dramatically since 
+the start of the pandemic. CPI inflation is calculated using fixed pre-
+pandemic consumption weights and thus may not accurately capture the 
+inflation rate households are currently facing. Box 2 outlines a new adjusted 
+price index that captures the effects of the change in consumption patterns. 
+The new price index is based on recent monthly transaction and survey 
+data. It also shows a sizable decline in inflation, albeit one that is slightly 
+smaller than in the official CPI (Chart 12).3
+3	 See K. P. Huynh, H. Lao, P. Sabourin and A. Welte, “What Do High-Frequency Expenditure Network 
+Data Reveal About Spending and Inflation During COVID‑19?” Bank of Canada Staff Analytical Note 
+(forthcoming).
+ 
+Chart 11: Price responses due to the pandemic have differed
+Year-over-year percentage change, monthly data
+a. CPI components affected by lower demand
+ Gasoline 
+(3.1%)
+ Clothing and 
+footwear (5.2%)
+ 
+ Traveller accommodations 
+(0.9%)
+b. CPI components affected by higher demand
+ Food purchased 
+from stores (11.3%)
+ Paper supplies 
+(0.4%)
+ Household cleaning 
+products (0.3%)
+Note: The numbers in parentheses represent basket weights of CPI components.
+Sources: Statistics Canada and Bank of Canada calculations 
+Last observation: May 2020
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+2017
+2018
+2019
+2020
+%
+-40
+-30
+-20
+-10
+10
+0
+20
+30
+2017
+2018
+2019
+2020
+%
+ 
+Chart 12: CPI infl
+ ation has declined to near zero
+Year-over-year percentage change, monthly data
+ Range of core 
+infl
+ ation measures*
+ Total CPI
+ Adjusted measure
+ Target
+* The measures are CPI-common, CPI-median and CPI-trim.
+Sources: Statistics Canada, Bank of Canada and Bank of Canada calculations 
+Last observation: May 2020 
+2018
+2019
+2020
+%
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+	
+Canadian economy	 17
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Box 2
+Adjusted CPI infl
+ ation shows only slightly less decline than CPI infl
+ ation
+Abrupt, large shifts in consumer spending occurred with 
+the onset of the pandemic . These shifts imply that the 
+consumer price index (CPI), which is a ﬁ
+ xed basket of 
+goods and services, may not refl
+ ect the actual level of 
+infl
+ ation Canadians experienced during the containment 
+period . The responses to the Bank of Canada’s most recent 
+Canadian Survey of Consumer Expectations illustrate this 
+potential discrepancy . Respondents indicated that, in their 
+experience, year-over-year infl
+ ation had remained close 
+to 2 percent in the second quarter of 2020 . However, in 
+fact, infl
+ ation as measured by the CPI is estimated to have 
+declined sharply .1
+To better understand consumers’ current infl
+ ation 
+experiences, the Bank and Statistics Canada developed 
+an adjusted price index, also referred to as the Analytical 
+price index . This index updates weights based on high-
+frequency expenditure data, adjusting them to shifts in 
+consumption patterns .2 New monthly weights are calculated 
+using anonymized aggregated payment data, Statistics 
+Canada’s monthly retail trade survey, and transaction data 
+from Canadian grocery retailers as well as subject matter 
+expertise .3
+The new index shows how much consumption patterns 
+have changed . For instance, the adjusted weights for food, 
+medicine and other pharmaceutical products (health and 
+personal care) are higher than in the CPI . In contrast, the 
+weights for transportation (travel, motor vehicles), clothing 
+and recreation are signiﬁ
+ cantly lower than CPI weights 
+(Table 2-A) .
+Overall, this adjusted index suggests slightly less 
+downward pressure on infl
+ ation than CPI does, by about 
+0 .3 percentage points in May (Chart 12) .4 These results 
+1 
+For more details, see the most recent Canadian Survey of Consumer Expectations .
+2 
+Actual CPI weights are based on Statistics Canada’s 2017 Survey of Household 
+Expenditures . 
+3 
+For more details, see T . Mitchell, G . O’Donnell, R . Taves, Z . Weselake-George and 
+A . Xu, “Consumer Expenditures During COVID-19: An Exploratory Analysis of the 
+Eﬀ
+ ects of Changing Consumption Patterns on Consumer Price Indexes,”  Statistics 
+Canada Prices Analytical Series No . 2020010 (July 2020) .
+4 The diﬀ
+ erences between the adjusted measure and the CPI apply to only 3 months 
+(March through May 2020) out of the 12 used to calculate CPI infl
+ ation on a year-
+over-year basis . Before March 2020, the adjusted measure assumes that spending 
+patterns, and thus 
+ monthly growth rates, are the same as those measured by CPI . 
+show that although consumption patterns shifted through 
+the containment period (and by quite a bit in areas such as 
+travel services), shifts in the weights did not have a large 
+impact on overall infl
+ ation .5 Thus, both the adjusted index and 
+the CPI indicate that the impacts of COVID-19 containment 
+measures and behavioural changes have been strongly 
+disinfl
+ ationary .
+Statistics Canada and the Bank will c 
+ontinue to update this 
+new index to calculate an adjusted CPI infl
+ ation measure 
+through the recovery period . The diﬀ
+ erence between the 
+two measures of infl
+ ation may dissipate if the changes in 
+consumption patterns reverse . 
+5 
+Consumer perceptions of price changes may suggest a bigger diﬀ
+ erence 
+because they are more likely to be infl
+ uenced by items purchased frequently, 
+like food . The prices of these frequently purchased items have risen during the 
+containment period .
+Table 2-A: CPI component weights based on 
+high-frequency data
+Percent
+CPI component
+CPI 
+basket 
+weight
+March 
+adjusted 
+weight
+April 
+adjusted 
+weight
+May 
+adjusted 
+weight
+Food (in stores and 
+at restaurants)
+16.48
+16.54
+20.68
+20.84
+Shelter
+27.36
+27.70
+31.23
+37.12
+Household 
+operations and 
+furnishings
+12.80
+12.66
+13.04
+13.99
+Clothing and 
+footwear
+5.17
+5.00
+3.30
+2.22
+Transportation
+19.95
+19.04
+15.01
+12.14
+Health and 
+personal care
+4.79
+4.85
+5.61
+4.96
+Recreation, 
+education and 
+reading
+10.24
+11.62
+7.97
+5.18
+Alcoholic 
+beverages and 
+tobacco products
+3.21
+2.60
+3.15
+3.55
+Difference between adjusted 
+and offi
+ cial CPI infl
+ ation 
+(percentage points)
+0.10
+0.20
+0.30
+Note: The adjusted measure is calculated based on the chained Laspeyres 
+method and uses one-month lagged weights as inputs. For example, the 
+adjusted measure for May 2020 uses the real-time weights from April 2020.
+	
+18
+	
+Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Firms have been heavily discounting some products to clear out undesired 
+inventories that built up at the height of the pandemic. At the same time, 
+there is only limited evidence to date of firms marking up their prices to 
+cover the increased costs of doing business during the pandemic. Despite 
+these additional costs, respondents to the summer Business Outlook 
+Survey stated that they intend to raise prices less than last year and operate 
+with smaller margins to remain competitive. Combined with low energy 
+prices, these forces are expected to keep inflation weak in the near term.
+Growth moderates in the recuperation phase
+After the initial bounce back in GDP growth, the economy is expected 
+to enter a more protracted and gradual recovery (Chart 13). This reflects 
+persistent effects of ongoing physical distancing measures, a slow rebound 
+in foreign demand and subdued confidence on the part of households and 
+firms resulting from elevated uncertainty about both the pandemic and the 
+pace of the recovery.
+Ongoing restructuring is an additional factor that restrains activity during 
+recuperation. Some businesses will not reopen, others will go bankrupt, 
+and new firms will require more time to form and scale. The service 
+sector is usually more resilient in recessions, providing a buffering role 
+for the economy. This time, however, the sector was also hit hard during 
+containment and will face ongoing challenges adjusting to a world where 
+physical distancing remains necessary.
+ 
+Chart 13: The central scenario shows a gradual recovery in GDP
+Real gross domestic product (GDP), chained 2012 dollars, quarterly data
+ GDP*
+ GDP at 2019Q4
+ GDP projection from the January Report*
+ Range of scenarios from the April Report
+* In this chart, the January projection for real GDP is extended by one year to 2022 using the potential 
+output growth estimate for 2021 provided in the January Report. 
+Sources: Statistics Canada and Bank of Canada calculations and projections
+2018
+2019
+2020
+2021
+2022
+1,250
+1,500
+1,750
+2,000
+2,250
+2,500
+Can$ billions
+	
+Canadian economy	 19
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+In the central scenario, fiscal and monetary policies together provide 
+substantial support to the Canadian economy. Fiscal measures are 
+scaled to the impacts of the pandemic and respond to evolving economic 
+conditions. Since the April Report, the CERB and CEWS have both been 
+extended. Moreover, other programs have been introduced or expanded, 
+including commercial rent assistance and additional supports for students 
+and new graduates, seniors, essential workers, and the oil and gas sector.4 
+Monetary stimulus has reduced borrowing costs for both households and 
+businesses.
+Several forces contribute to closing the gap between supply and demand 
+over time in the central scenario. Supply initially recovers in line with the 
+easing of containment measures. Demand benefits only gradually from 
+improvements in foreign demand and confidence as well as support from 
+fiscal and monetary policies, but eventually foreign and domestic demand 
+increase faster than supply, absorbing excess capacity.
+Household spending will rise, but caution may linger
+In the central scenario, household spending picks up gradually as 
+containment measures are eventually lifted and confidence in the economy 
+improves. However, caution persists. Thus, while the savings rate declines 
+from its peak in the second quarter, it remains higher than in recent years 
+(Chart 14).5
+4	 For more details, see the Government of Canada website.
+5	 The large jump in the savings rate in the second quarter reflects the combined impact of the income 
+support payments and the income tax deferrals on disposable income as well as the constrained 
+spending due to the containment measures. The effects on disposable income are expected to unwind 
+in the third quarter. 
+ 
+Chart 14: The savings rate is expected to remain above its recent average
+Nominal quarterly data
+ Household consumption 
+(Index: 2019Q4 = 100, left scale)
+ Disposable income 
+(Index: 2019Q4 = 100, left scale)
+ Savings rate (right scale)
+ Average savings rate 
+(2015–19, right scale)
+Sources: Statistics Canada and Bank of Canada calculations and projections 
+ 
+0
+5
+10
+15
+20
+25
+30
+80
+90
+100
+110
+120
+2019
+2020
+2021
+2022
+%
+Index
+	
+20
+	 Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Underlying the central scenario, the consumption patterns of households 
+differ greatly depending on households’ individual financial situations and 
+the impact of the pandemic on their incomes.6 Lower-income workers have 
+been disproportionately affected by the efforts to contain the spread of the 
+virus, either through layoffs or reduced hours. Many have seen their lost 
+incomes replaced by CERB payments or other income-support measures 
+and have benefited temporarily from deferred debt payments. Nonetheless, 
+some of these households will face prolonged income losses, which could 
+push up the number of financially stressed households, restraining the 
+recovery of consumption.
+At the same time, the incomes of other households have held up through 
+this period. They are more likely to include people who earn higher incomes 
+and who work in professions with few barriers to remote work. These 
+households have been accumulating savings, mainly because there has 
+been less to spend money on during the containment period. This suggests 
+pent-up demand could help boost spending of some consumers.
+Overall, the central scenario for consumption incorporates a degree of 
+caution, as some households prioritize paying down debts or increasing 
+precautionary savings given the uncertain economic environment. 
+Insolvencies increase but do not derail the recovery.
+More broadly, household spending patterns have shifted since the onset of 
+the pandemic, and some of these changes may last (Chart 15). As a result, 
+there is heightened uncertainty regarding the composition of consumption 
+and housing demand in the central scenario and what that might imply for 
+the retail and travel sectors as well as for residential construction.
+In the central scenario, the effects of the downturn and lower immigration 
+hold down housing activity over the next few years. After a near-term boost 
+from pent-up demand, residential investment slowly increases as income 
+and confidence recover.
+6	 See J. C. MacGee, T. M. Pugh and K. G. See, “The Heterogeneous Effects of COVID‑19 on Household 
+Consumption, Debt and Savings,” Bank of Canada Staff Analytical Note (forthcoming).
+ 
+Chart 15: Household spending patterns are changing 
+Balance of opinion,* percent
+* Responses to the following question in the Canadian Survey of Consumer Expectations (CSCE) are 
+shown: “After the situation normalizes, relative to your spending before the COVID-19 outbreak, do 
+you expect that your spending on the following will be higher, similar or lower?” Balance of opinion 
+represents the percentage of consumers expecting higher spending minus the percentage expecting 
+lower spending. See the 2020Q2 CSCE for more details.
+Source: Bank of Canada 
+Last observation: 2020Q2
+-40
+-30
+-20
+-10
+0
+10 %
+Travel and transportation
+Restaurants, cinema and social activities
+Durables (cars, appliances and furniture)
+Education
+Clothing and footwear
+Health and personal care
+Shelter
+Groceries
+	
+Canadian economy	 21
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Business investment is likely to remain weak
+In the Bank’s central scenario, uncertainty about the composition and 
+strength of future demand, elevated debt levels and lingering financial 
+stress significantly dampen business investment. Across all regions and 
+sectors, respondents to the summer Business Outlook Survey reported that 
+uncertainty is weighing heavily on investment plans and suggested that their 
+investment will remain weak over the next 12 months (Chart 16).
+Business investment recovers slowly in the central scenario, even as 
+elevated uncertainty recedes. This reflects that capacity pressures are 
+quite limited overall and that some firms are scaling back or abandoning 
+their investment plans, while other businesses are closing their doors 
+permanently. In addition, it will take some time for businesses to reposition 
+themselves and adjust their investment to reflect new demand patterns.
+A lower investment path is also likely to have persistent effects on potential 
+output by reducing the future capital stock. One area of relative strength, 
+however, is investment in digital technology. The pandemic has already 
+accelerated digitalization in some sectors. In the Business Outlook Survey, 
+retailers often cited plans to further invest in online offerings, and providers 
+of financial and other professional services reported spending more on 
+digital technology so that staff can work from home efficiently.
+The energy sector is expected to remain subdued
+The current environment of low energy prices arrived just as the sector was 
+beginning to emerge from a lengthy period of challenging adjustments.
+Acute liquidity concerns have eased as oil prices have increased from 
+their April lows and the spread between the prices of WTI and WCS has 
+narrowed. Nevertheless, the sector remains under pressure, with smaller 
+firms facing greater challenges than the larger, more-integrated producers.
+ 
+Chart 16: Business sentiment has plummeted across regions
+Regional BOS indicator and regional contributions, quarterly data
+ Ontario
+ Atlantic provinces
+ Quebec
+ Prairies
+ 
+ British Columbia
+ Regional BOS indicator*
+* This indicator may differ from the overall Business Outlook Survey (BOS) indicator because the common 
+variations are extracted from more variables. These variables are more volatile because they are based 
+on responses from smaller samples of fi
+ rms.
+Source: Bank of Canada 
+Last observation: 2020Q2
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Standardized units
+	
+22
+	
+Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Restructuring within the industry, ongoing since the 2014–15 oil price shock, 
+is expected to continue. Oil production has been reduced and capital 
+expenditure plans have been significantly curtailed. In addition, there are 
+renewed questions about the likelihood of pipelines being developed. The 
+central scenario anticipates that, with weaker investment in the face of 
+reduced demand and low prices, oil production is now on a considerably 
+lower path than before the COVID‑19 crisis.
+Exports will recover at a moderate pace
+Exports in the central scenario recover gradually as borders reopen further, 
+international supply chains are re-established and foreign demand picks up. 
+However, travel and exports of motor vehicles and energy continue to weigh 
+on growth, given weaker demand for these products during the recuperation 
+phase.
+The current crisis could amplify pressures to relocate supply chains 
+domestically, a global trend that started before the pandemic due to rising 
+protectionism. In addition, in the current environment of disrupted trade, 
+some of the declines in exports may be offset by substitution away from 
+some imports and toward domestic goods and services.
+A slow rebound in demand weighs on inflation
+In the central scenario, the path for CPI inflation over the next year largely 
+reflects the influence of energy prices. The dramatic decline in these prices 
+in March and April will hold inflation down until early 2021 (Chart 17). After 
+that, the inflation outlook depends primarily on the speed and strength at 
+which demand and supply recover. Firms report that capacity could return 
+quickly as the economy reopens and containment measures are lifted. They 
+expect the recovery in demand to be more muted, especially in the services 
+and energy sectors (Chart 18). The scenario assumes that the impact on 
+supply is about 60 percent of the decline in GDP over the first half of 2020 
+(Box 3).
+ 
+Chart 17: CPI infl
+ ation gradually increases toward 2 percent in the central scenario
+Quarterly data
+ Range of scenarios from the April Report
+ CPI infl
+ ation
+Sources: Statistics Canada and Bank of Canada projections 
+-1
+0
+1
+2
+3
+2018
+2019
+2020
+2021
+2022
+%
+	
+Canadian economy	 23
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Box 3
+Estimating the economy’s supply in the wake of COVID-19
+The pandemic has had large and pervasive impacts on the 
+supply of goods and services in the Canadian economy . The 
+nature of the supply eﬀ
+ ects is very diﬀ
+ erent than in past 
+recessions . Supply fell dramatically when governments told 
+some ﬁ
+ rms to shut down their operations temporarily .
+While certain sectors may continue to face restrictions for 
+some time, many businesses are already reopening . Thus, 
+much of the initial decline in supply is likely to be relatively 
+short-lived and therefore not as damaging to the economy’s 
+underlying productive capacity (i .e ., potential output) as 
+it could have been . Intuitively, this productive capacity 
+continues to exist and would have remained in use if not for 
+COVID-19 . This reasoning explains this Report’s distinction 
+between supply and potential output in the near term . 
+Through the recuperation phase, the diﬀ
+ erence between 
+the concepts goes away . Thus, the longer-term outlook for 
+supply becomes the new outlook for potential output . Over 
+the longer term, both incorporate the persistent scarring 
+eﬀ
+ ects of the pandemic on investment and the working-age 
+population .
+The extraordinary nature of the COVID-19 pandemic
+The Bank of Canada estimates that total supply was about 
+9 percent lower in the second quarter of 2020 than in 
+the fourth quarter of 2019, largely due to the impact of 
+containment measures . This sharp contraction in supply 
+amounts to about 60 percent of the decline in gross 
+domestic product (GDP) over the same period .
+In the Bank’s central scenario, the short-term contraction 
+in supply is assumed to be attributable to hours lost due 
+to ﬁ
+ rm shutdowns, stay-at-home orders, disruptions to 
+work routines, caring for relatives at home and, to a lesser 
+extent, sickness . These eﬀ
+ ects are expected to dissipate 
+as containment measures are relaxed . Some eﬀ
+ ects are 
+anticipated to persist through the ﬁ
+ rst half of 2021 to account 
+for the pandemic and ongoing challenges in some industries .
+In addition, both consumer and business conﬁ
+ dence have 
+been severely shaken by the pandemic and continuing 
+uncertainty about its course and economic impacts . Low 
+conﬁ
+ dence has negative eﬀ
+ ects on demand as well as on 
+supply, and these eﬀ
+ ects last well beyond the initial easing 
+of containment measures . Overall, in the Bank’s central 
+scenario, demand takes longer than supply to recover in the 
+near term .
+A long-term perspective on potential output
+The level of potential output by 2022 in the central scenario 
+is almost 4 percent lower than in the January Report 
+(Cha 
+rt 3-A) . Population, business investment and labour 
+productivity are all expected to follow lower trajectories .
+In the near term, fewer immigrants and international 
+students are expected to come to Canada because of 
+travel restrictions and delays in processing new visas . As 
+a result, the Canadian working-age population is expected 
+to contract slightly through the middle of the year before 
+returning to growth at the end of 2020 . Looking further 
+ahead, the Bank assumes that the pace of people arriving 
+in Canada as permanent and non-permanent residents will 
+gradually return to its pre-COVID-19 rate by 2022 .
+The current crisis is also assumed to have long-lasting 
+adverse eﬀ
+ ects on the productive capacity of the economy: 
+changes in business and consumer behaviour, combined 
+with bankruptcies and layoﬀ
+ s, may lead to important 
+structural adjustments . The reallocation of labour and 
+capital across sectors will likely result in some mismatches 
+of skills and obsolescence of capital, which in turn could 
+weigh on investment and labour productivity .
+Demand falls more than supply in the central 
+scenario
+Change since 2019Q4, quarterly data
+ Real GDP (central scenario)
+ Supply (central scenario)
+ Potential output 
+(January Report)*
+* In this chart, the January projection for potential output is extended by 
+one year to 2022 using the potential output growth estimate for 2021 
+provided in the January Report.
+Sources: Statistics Canada and Bank of Canada calculations, 
+estimates and projections
+Chart 3-A: 
+-20
+-15
+-10
+-5
+0
+5
+10
+2019
+2020
+2021
+2022
+%
+	
+24
+	
+Canadian economy 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Even as establishments reopen, many consumers are expected to be 
+hesitant to resume their previous spending patterns, partly due to fears of 
+contracting the virus. In addition, even those who did not lose their job, or 
+those whose lost income was fully offset by government programs, may 
+re-evaluate their need for precautionary savings. Foreign demand may be 
+even slower to rebound because some trade partners are taking longer than 
+Canada to contain the spread of the virus. Faced with uncertainty about 
+demand, businesses are likely to cancel or postpone investment plans. 
+Overall, this implies that demand will take some time to recover in line with 
+supply.
+In this context, weak demand explains why firms are reluctant to pass along 
+cost increases associated with the pandemic. However, it is possible that 
+customers will be sympathetic when price increases are clearly linked to 
+these costs. This could lead to higher inflation than in the central scenario.
+So far, consumer expectations of inflation over the next one to two years 
+have remained firm despite the large decline in CPI inflation. In the central 
+scenario, downward pressure on inflation gradually fades as demand 
+recovers and economic slack diminishes. However, uncertainty is far greater 
+than usual. The large declines in both demand and supply are extraordinary. 
+Over a longer horizon, the pandemic could cause large and lasting changes 
+in consumer preferences and other sources of demand. Similarly, the scope 
+of possible structural changes to a post-pandemic economy is vast, and 
+the timing of adjustments will remain unknowable as long as COVID‑19 
+continues to be a threat.
+ 
+Chart 18: Supply recovers sooner than demand
+a. While most fi
+ rms expect production can resume quickly as the economy reopens...*
+ Less than 1 week or unaffected
+ 1 week to 1 month
+ 1 to 6 months or too uncertain
+ More than 6 months
+ Not 
+answered
+b. …they anticipate the recovery in demand to be gradual†
+ Fully return, unaffected 
+or benefi
+ ted
+ Mostly return
+ Partially return or too uncertain
+ No return
+ Not answered
+* Percentage of fi
+ rms responding to the Business Outlook Survey question, 
+“Once restrictions are lifted, how long would it take for production to return to normal?”
+† Percentage of fi
+ rms responding to the Business Outlook Survey question, 
+“To what extent do you think your sales will be back to pre-COVID-19 levels in the next 12 months?”
+ 
+Source: Bank of Canada 
+Last observation: 2020Q2
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100 %
+Production
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100 %
+Sales
+	
+Canadian economy	 25
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Monetary policy tools
+Monetary policy tools
+The Bank of Canada responded quickly and forcefully to market disruptions 
+as well as to the anticipated economic consequences of the COVID‑19 
+pandemic and related containment measures. The Bank reduced the policy 
+interest rate by 150 basis points to 25 basis points, its effective lower bound, 
+and launched a number of liquidity facilities and asset purchase programs. 
+The cumulative impact of these facilities and purchase programs since 
+March has resulted in an exceptional increase in the size of the Bank’s 
+balance sheet (Chart 19a).
+While the initial intent of the facilities and programs was to restore market 
+functioning, the programs all play a role in the conduct of monetary policy. 
+This is because, when markets are not functioning properly, the chain of 
+lending and borrowing stops working, and the ability of monetary policy to 
+provide stimulus breaks down. During a crisis, central banks must ensure 
+that credit can continue to flow to households and businesses. Although the 
+Bank has reduced the frequency of its short-term liquidity operations since 
+the improvement in market functioning, the facilities are still in place as an 
+important backstop while uncertainty remains elevated.
+ 
+Chart 19: Central banks acted swiftly to support markets
+a. Bank of Canada total assets, weekly data
+ Securities purchased under 
+resale agreements
+ Government of Canada bonds
+ Treasury bills
+ Bankers’ accep 
+tences
+ All other assets*
+b. Central bank total assets as a percentage of 2019Q4 GDP, monthly data
+ End of December 2019
+ Change in 2020H1
+* Other assets include provincial bonds, corporate bonds and commercial paper. A full list of assets can be found on the Bank of Canada’s website on assets and liabilities.
+Sources: Bloomberg Finance L.P., national sources 
+via Haver Analytics, and Bank of Canada calculations
+Last observations: Bank of Canada total assets, July 8, 2020;
+central bank total assets, June 2020
+0
+100
+200
+300
+400
+500
+600
+Can$ billlions
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+0
+20
+40
+60
+80
+100
+120
+140
+%
+Bank of
+Canada
+US Federal
+Reserve
+European
+Central
+Bank
+Bank of
+Japan
+Bank of
+England
+Reserve
+Bank of
+Australia
+Swiss
+National
+Bank
+	
+Monetary policy tools	 27
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Large-scale secondary market purchases of Government of Canada bonds 
+provide monetary stimulus through several channels and can be described 
+as quantitative easing (QE).7 When markets are not functioning well, QE 
+improves liquidity in the government bond market (liquidity channel). 
+QE can also lower borrowing costs for businesses and households by 
+putting downward pressure on government yields (interest-rate channel).8 
+Through the purchase of a large quantity of government bonds held by the 
+private sector, QE reduces the relative supply of bonds and thus lowers 
+their relative yields, leading investors to reallocate their portfolio to riskier 
+assets (portfolio balance channel). In addition, some investors will adjust 
+their portfolios to include more assets priced in other currencies, placing 
+downward pressure on the Canadian dollar (foreign exchange channel). 
+Markets generally interpret QE as a signal that rates will likely be at the lower 
+bound for an extended period (signalling channel).9
+The Bank has committed to continue buying at least $5 billion of Canadian 
+government bonds each week until the recovery is well underway. The 
+current level of purchases is likely working to varying degrees through all 
+these channels, which helps make borrowing more accessible and more 
+affordable for households and businesses. Initially, the purchases were 
+improving liquidity. With improved market functioning and the reopening 
+of the economy, other channels are becoming more important. While the 
+Bank’s balance sheet is not large compared with those of other major 
+central banks, the increase in its size has been particularly rapid (Chart 19b).
+The Bank’s corporate bond purchase program, through purchases of 
+corporate bonds in secondary markets, has helped improve liquidity 
+conditions in this market, even though purchases have been limited to 
+date. As market functioning improved globally and in Canada, Canadian 
+corporations became better able to access markets directly for new 
+borrowing that will support continued operations. Credit easing programs 
+like this one can deliver stimulus by narrowing the difference between yields 
+of corporate and government bonds, bringing down borrowing costs for 
+businesses.
+7	 For more details, see the April 2020 Monetary Policy Report; the May 2020 Financial System Review; 
+T. Gravelle, “Economic Progress Report: Keeping Markets Working” (speech to the Greater Sudbury 
+Chamber of Commerce, Sudbury, June 4, 2020); T. Macklem, “Monetary Policy in the Context of 
+COVID‑19” (speech to the Canadian Clubs and cercles canadiens, Ottawa, June 22, 2020); and the 
+Bank of Canada website.
+8	 The interest-rate channel is also referred to in the academic literature as the credit channel or bank-
+lending channel. 
+9	 There is a large literature examining QE, although a standard nomenclature for the channels does not 
+exist. For more details, see Committee on the Global Financial System, “Unconventional Monetary 
+Policy Tools: A Cross-Country Analysis,” CGFS Papers No. 63 (October 2019); I. Goldstein, J. Witmer 
+and J. Yang, “Following the Money: Evidence for the Portfolio Balance Channel of Quantitative Easing,” 
+Bank of Canada Staff Working Paper No. 2018-33 (July 2018); J.-S. Fontaine, L. Suchanek and J. Yang, 
+“Unconventional Monetary Policy: The Perspective of a Small Open Economy,” Bank of Canada Review 
+(Spring 2017): 19–30; A. Reza, E. Santor and L. Suchanek, “Quantitative Easing as a Policy Tool Under 
+the Effective Lower Bound,” Bank of Canada Staff Discussion Paper No. 2015-14 (November 2015).
+	
+28
+	
+Monetary policy tools 
+	
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
+Alternative scenarios and risks
+Alternative scenarios and risks
+The central scenario for output and inflation described in this Report is highly 
+conditional on the course of the pandemic, and there are many scenarios 
+above and below this one in which the evolution of the pandemic is more or 
+less favourable. There are also a number of economic upside and downside 
+risks even if the virus evolves as assumed in the central scenario. In practice, 
+public health and economic health are closely intertwined, with many of the 
+economic risks likely to break to the upside (downside) if the virus evolves 
+more (less) favourably than in the central scenario.
+On the downside, there are a series of increasingly dire scenarios in 
+which COVID-19 outbreaks increase as the economy reopens, forcing the 
+reintroduction of containment measures. The broader the shutdowns, the 
+bigger the economic impact. This includes the possibility of a widespread 
+and possibly more severe second wave of the virus, requiring a complete 
+lockdown.
+Tighter global financial conditions could result if, for instance, there were 
+widespread household, corporate and sovereign defaults given elevated 
+debt levels. Such an outcome would threaten financial stability and likely 
+cause a rapid adjustment of market prices and risk premiums. Emerging 
+markets, particularly those that have not yet contained the virus, would be 
+especially vulnerable and could face greater stress and a marked increase 
+in capital outflows. If the pandemic takes a more dire path, trade tensions 
+could be exacerbated, and global fragmentation could worsen. In Canada, 
+a much weaker scenario could crystalize the risks associated with high 
+household indebtedness.
+On the upside, a stronger economic scenario could unfold if, for instance, 
+economies reopen with minimal spread of the virus, or if a vaccine or 
+effective treatment is available earlier than assumed in the central scenario. 
+Such an improved scenario could lead to and in turn be bolstered by higher 
+commodity prices and greater business and consumer confidence. These 
+factors would likely lead to a stronger profile in exports and business 
+investment, most notably in the energy and commodity sectors. If consumer 
+confidence were more robust and enduring, a stronger rebound in household 
+spending than the subdued recovery in the central scenario would be 
+anticipated. A more positive outlook could prompt households that built up 
+savings during the containment period to pick up the spending they had put 
+on hold, releasing pent-up demand.
+Even if the course of the pandemic is as assumed in the central scenario, 
+the economic factors mentioned above could lead to stronger or weaker 
+outcomes for the economic outlook, with dynamics similar to what is 
+discussed here.
+	
+Alternative scenarios and risks	 29
+ 
+	
+BANK OF CANADA  •  Monetary Policy Report  •  July 2020
